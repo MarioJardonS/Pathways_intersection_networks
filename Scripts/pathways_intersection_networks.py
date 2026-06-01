@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_table("pathways_species2.tsv" )
+data = pd.read_table("../Data/pathways_species2.tsv" )
 
 #conjunto de rutas
 pathways = data["Pathway"]
