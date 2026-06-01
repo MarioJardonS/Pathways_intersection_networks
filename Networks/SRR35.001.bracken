@@ -1,0 +1,23 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Pseudomonas sp. NC02	2067572	S	1917	173	2090	0.58940
+Pseudomonas fluorescens	294	S	70	17	87	0.02453
+Pseudomonas mandelii	75612	S	57	24	81	0.02284
+Pseudomonas rhodesiae	76760	S	17	5	22	0.00620
+Pseudomonas tolaasii	29442	S	10	0	10	0.00282
+Pseudomonas azotoformans	47878	S	10	0	10	0.00282
+Pseudomonas sp. TMW 2.1634	1886807	S	93	111	204	0.05753
+Pseudomonas extremaustralis	359110	S	75	1	76	0.02143
+Pseudomonas koreensis	198620	S	35	1	36	0.01015
+Pseudomonas yamanorum	515393	S	30	0	30	0.00846
+Pseudomonas fragi	296	S	10	0	10	0.00282
+Pseudomonas putida	303	S	16	7	23	0.00649
+Pseudomonas aeruginosa	287	S	10	12	22	0.00620
+Acinetobacter johnsonii	40214	S	51	29	80	0.02256
+Bacillus cereus	1396	S	46	104	150	0.04230
+Bacillus thuringiensis	1428	S	12	4	16	0.00451
+Bacillus subtilis	1423	S	34	20	54	0.01523
+Bacillus safensis	561879	S	22	0	22	0.00620
+Paenibacillus lautus	1401	S	13	2	15	0.00423
+Cutibacterium acnes	1747	S	11	0	11	0.00310
+Niastella koreensis	354356	S	10	0	10	0.00282
+Homo sapiens	9606	S	479	0	479	0.13508

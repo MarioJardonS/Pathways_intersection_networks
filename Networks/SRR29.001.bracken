@@ -1,0 +1,6 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Cutibacterium acnes	1747	S	66	1	67	0.37017
+Meiothermus silvanus	52022	S	11	0	11	0.06077
+Achromobacter xylosoxidans	85698	S	18	4	22	0.12155
+Bradyrhizobium sp. BTAi1	288000	S	20	0	20	0.11050
+Homo sapiens	9606	S	60	0	60	0.33149
