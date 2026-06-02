@@ -1,0 +1,12 @@
+UNINTEGRATED,BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis,2
+UNINTEGRATED,ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine),2
+UNINTEGRATED,PWY-5103:_L-isoleucine_biosynthesis_III,2
+UNINTEGRATED,PWY-6700:_queuosine_biosynthesis_I_(de_novo),1
+UNINTEGRATED,VALSYN-PWY:_L-valine_biosynthesis,5
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis,ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine),2
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis,PWY-5103:_L-isoleucine_biosynthesis_III,2
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis,VALSYN-PWY:_L-valine_biosynthesis,2
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine),PWY-5103:_L-isoleucine_biosynthesis_III,2
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine),VALSYN-PWY:_L-valine_biosynthesis,2
+PWY-5103:_L-isoleucine_biosynthesis_III,VALSYN-PWY:_L-valine_biosynthesis,2
+PWY-6700:_queuosine_biosynthesis_I_(de_novo),VALSYN-PWY:_L-valine_biosynthesis,1
