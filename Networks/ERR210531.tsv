@@ -1,0 +1,15 @@
+UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
+UNINTEGRATED	PWY-6147:_6-hydroxymethyl-dihydropterin_diphosphate_biosynthesis_I	1
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	3
+UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
+UNINTEGRATED	RHAMCAT-PWY:_L-rhamnose_degradation_I	1
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6147:_6-hydroxymethyl-dihydropterin_diphosphate_biosynthesis_I	1
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	RHAMCAT-PWY:_L-rhamnose_degradation_I	1
+PWY-6147:_6-hydroxymethyl-dihydropterin_diphosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
+PWY-6147:_6-hydroxymethyl-dihydropterin_diphosphate_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
+PWY-6147:_6-hydroxymethyl-dihydropterin_diphosphate_biosynthesis_I	RHAMCAT-PWY:_L-rhamnose_degradation_I	1
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	RHAMCAT-PWY:_L-rhamnose_degradation_I	1
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	RHAMCAT-PWY:_L-rhamnose_degradation_I	1

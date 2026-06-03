@@ -1,0 +1,6 @@
+UNINTEGRATED	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
