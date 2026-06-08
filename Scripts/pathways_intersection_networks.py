@@ -21,24 +21,37 @@ def taxa(ruta , muestra):
 	return duta_r_m
  	
  	
+# Función para calcular índice de Jaccard
+def jaccard(conjunto1, conjunto2):
+    union = conjunto1.union(conjunto2)
+
+    if len(union) == 0:
+        return 0
+
+    interseccion = conjunto1.intersection(conjunto2)
+
+    return len(interseccion) / len(union)
+
  	
 #funcion que crea red de rutas para una muestra
 
 def red(muestra):
-	edges = []
-	for i in range(len(rutas)-1):
-		for j in range(i+1 , len(rutas)):
-			t_i = taxa(rutas[i] , muestra)
-			t_j = taxa(rutas[j] , muestra)
-			
-			i_j = t_i.intersection(t_j)
-			
-			if len(i_j) > 0:
-				edges.append([rutas[i],rutas[j], len(i_j)])
-				
-				
-				
-	return edges
+    edges = []
+
+    for i in range(len(rutas)-1):
+        for j in range(i+1, len(rutas)):
+
+            t_i = taxa(rutas[i], muestra)
+            t_j = taxa(rutas[j], muestra)
+
+            inter = len(t_i.intersection(t_j))
+            jac = jaccard(t_i, t_j)
+
+            if inter > 0:
+                edges.append([rutas[i], rutas[j], inter, jac])
+
+    return edges
+	
 	
 	
 	
