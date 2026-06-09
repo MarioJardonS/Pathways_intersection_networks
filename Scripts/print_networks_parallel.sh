@@ -2,7 +2,7 @@
 
 # 1 es grupo 
 
-python arguments_print_networks_parallel.py $1 
+python arguments_print_networks_parallel.py
 
 bash argumentos.sh
 

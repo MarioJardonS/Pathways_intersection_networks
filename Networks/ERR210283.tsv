@@ -1,483 +1,483 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	2
-UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1
-UNINTEGRATED	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	3
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	3
-UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	1
-UNINTEGRATED	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-UNINTEGRATED	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	2
-UNINTEGRATED	PWY-4984:_urea_cycle	2
-UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	1
-UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	2
-UNINTEGRATED	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2
-UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3
-UNINTEGRATED	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-UNINTEGRATED	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	3
-UNINTEGRATED	PWY-6703:_preQ0_biosynthesis	1
-UNINTEGRATED	PWY-6897:_thiamine_diphosphate_salvage_II	1
-UNINTEGRATED	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1
-UNINTEGRATED	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1
-UNINTEGRATED	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-UNINTEGRATED	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	HISDEG-PWY:_L-histidine_degradation_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-3841:_folate_transformations_II_(plants)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5030:_L-histidine_degradation_III	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5973:_cis-vaccenate_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	HISDEG-PWY:_L-histidine_degradation_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5030:_L-histidine_degradation_III	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6703:_preQ0_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	3
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	HISDEG-PWY:_L-histidine_degradation_I	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-3841:_folate_transformations_II_(plants)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-4984:_urea_cycle	2
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-5030:_L-histidine_degradation_III	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-5973:_cis-vaccenate_biosynthesis	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6703:_preQ0_biosynthesis	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7238:_sucrose_biosynthesis_II	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7977:_L-methionine_biosynthesis_IV	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	VALSYN-PWY:_L-valine_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	HISDEG-PWY:_L-histidine_degradation_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-4984:_urea_cycle	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5030:_L-histidine_degradation_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6703:_preQ0_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1
-HISDEG-PWY:_L-histidine_degradation_I	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-3841:_folate_transformations_II_(plants)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-5973:_cis-vaccenate_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6703:_preQ0_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6897:_thiamine_diphosphate_salvage_II	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-7238:_sucrose_biosynthesis_II	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-HISDEG-PWY:_L-histidine_degradation_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-HISDEG-PWY:_L-histidine_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-3841:_folate_transformations_II_(plants)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-5030:_L-histidine_degradation_III	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-5973:_cis-vaccenate_biosynthesis	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6703:_preQ0_biosynthesis	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7238:_sucrose_biosynthesis_II	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7977:_L-methionine_biosynthesis_IV	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	VALSYN-PWY:_L-valine_biosynthesis	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-3841:_folate_transformations_II_(plants)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5030:_L-histidine_degradation_III	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5973:_cis-vaccenate_biosynthesis	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6703:_preQ0_biosynthesis	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-5030:_L-histidine_degradation_III	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-5973:_cis-vaccenate_biosynthesis	2
-PWY-3841:_folate_transformations_II_(plants)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2
-PWY-3841:_folate_transformations_II_(plants)	PWY-6703:_preQ0_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-3841:_folate_transformations_II_(plants)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-3841:_folate_transformations_II_(plants)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-3841:_folate_transformations_II_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-4984:_urea_cycle	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2
-PWY-4984:_urea_cycle	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	2
-PWY-4984:_urea_cycle	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	2
-PWY-4984:_urea_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-5030:_L-histidine_degradation_III	PWY-5973:_cis-vaccenate_biosynthesis	1
-PWY-5030:_L-histidine_degradation_III	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5030:_L-histidine_degradation_III	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5030:_L-histidine_degradation_III	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-5030:_L-histidine_degradation_III	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-5030:_L-histidine_degradation_III	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-5030:_L-histidine_degradation_III	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5030:_L-histidine_degradation_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5030:_L-histidine_degradation_III	PWY-6703:_preQ0_biosynthesis	1
-PWY-5030:_L-histidine_degradation_III	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-5030:_L-histidine_degradation_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-5030:_L-histidine_degradation_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-5030:_L-histidine_degradation_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-5030:_L-histidine_degradation_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5030:_L-histidine_degradation_III	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5030:_L-histidine_degradation_III	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-5030:_L-histidine_degradation_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5030:_L-histidine_degradation_III	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-5030:_L-histidine_degradation_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6703:_preQ0_biosynthesis	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5973:_cis-vaccenate_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-5973:_cis-vaccenate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	2
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	2
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6703:_preQ0_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6703:_preQ0_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6703:_preQ0_biosynthesis	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6703:_preQ0_biosynthesis	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6703:_preQ0_biosynthesis	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6703:_preQ0_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6703:_preQ0_biosynthesis	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6703:_preQ0_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1
-PWY-6703:_preQ0_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6703:_preQ0_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6703:_preQ0_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6703:_preQ0_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6703:_preQ0_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6703:_preQ0_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6703:_preQ0_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6703:_preQ0_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6703:_preQ0_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6897:_thiamine_diphosphate_salvage_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-7238:_sucrose_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7238:_sucrose_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7977:_L-methionine_biosynthesis_IV	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1
-PWY-7977:_L-methionine_biosynthesis_IV	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7977:_L-methionine_biosynthesis_IV	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-7977:_L-methionine_biosynthesis_IV	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	VALSYN-PWY:_L-valine_biosynthesis	1
-THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	2	0.3333333333333333	0.0018178376599774504
+UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1	0.16666666666666666	0.0005294758306557679
+UNINTEGRATED	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	3	0.5	0.0023248739600908452
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	3	0.5	0.0024825061061929388
+UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	1	0.16666666666666666	0.0013617487329082856
+UNINTEGRATED	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	0.16666666666666666	0.0010995726520003357
+UNINTEGRATED	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.16666666666666666	0.0012187016153449859
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	2	0.3333333333333333	0.0013711566517962126
+UNINTEGRATED	PWY-4984:_urea_cycle	2	0.3333333333333333	0.0007494513486815402
+UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	1	0.16666666666666666	0.0011443115309658358
+UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	2	0.3333333333333333	0.0012669388467151377
+UNINTEGRATED	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2	0.3333333333333333	0.0009114072534048834
+UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3	0.5	0.0025928632495594295
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.16666666666666666	0.0013379328623460696
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.16666666666666666	0.0013365440337193002
+UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.16666666666666666	0.0013264637681003055
+UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3	0.5	0.0025928632495594295
+UNINTEGRATED	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.16666666666666666	0.0014093698118092801
+UNINTEGRATED	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.16666666666666666	0.0012887133899922576
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.16666666666666666	0.0010077495090700106
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	3	0.5	0.0013087546904426706
+UNINTEGRATED	PWY-6703:_preQ0_biosynthesis	1	0.16666666666666666	0.0017234597628890125
+UNINTEGRATED	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.16666666666666666	0.0008441247667565488
+UNINTEGRATED	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.16666666666666666	0.0017975111968853152
+UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1	0.16666666666666666	0.0011406461011772562
+UNINTEGRATED	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.16666666666666666	0.0010226640614021676
+UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	0.3333333333333333	0.0012703305094443618
+UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1	0.16666666666666666	0.0011556930976872604
+UNINTEGRATED	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.16666666666666666	0.0010995726520003357
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.16666666666666666	0.0007786836860027568
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.3333333333333333	0.0008478477609359381
+UNINTEGRATED	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.16666666666666666	0.0011322487211313792
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	0.16666666666666666	0.00110171464317399
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1	0.5	0.4509083103628314
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1	0.25	0.6377645011136603
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.25	0.6143562934715057
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	HISDEG-PWY:_L-histidine_degradation_I	1	0.5	0.8311486771105357
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	0.5	0.753631685952892
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.5	0.8025471012374722
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-3841:_folate_transformations_II_(plants)	1	0.3333333333333333	0.6895074392655358
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5030:_L-histidine_degradation_III	1	0.5	0.7724626943368998
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.7147963786176623
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.25	0.598963338934527
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.837424569461434
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.5	0.8377934709950843
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.5	0.8404807537137979
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.25	0.598963338934527
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.5	0.8188771995324257
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.5	0.8295461497704603
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.5	0.7131167254605947
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.25	0.7318923229526917
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1	0.5	0.7461986859305054
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.5	0.634001403769701
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.730901556994076
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.7709412763646656
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.5	0.7198754168605125
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.6697223922911875
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.7771629869667832
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.5	0.753631685952892
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.5	0.5995716383572542
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.5	0.76744152123202
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7545464092717209
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1	0.3333333333333333	0.3707243760884734
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.3333333333333333	0.3512965914910319
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	HISDEG-PWY:_L-histidine_degradation_I	1	1.0	0.5597612593625523
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	1.0	0.6499179464650919
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	1.0	0.6056005174853945
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1	0.5	0.5569882905329249
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5030:_L-histidine_degradation_III	1	1.0	0.6325349586935824
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1	0.5	0.5893272805236672
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.3333333333333333	0.3388626238579352
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.5669058198202437
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.567328083454713
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.5704118545461222
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.3388626238579352
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.5460016270337343
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.5822642717319415
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.6887640770643979
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.5759113317025731
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6703:_preQ0_biosynthesis	1	1.0	0.4698171827301174
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7708567171332326
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.45485119149672304
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.6339241175153449
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.6821418315385739
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.5882158918448144
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.628259975296908
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.6499179464650919
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8094372895115022
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.637129733717512
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6490639605429034
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	3	1.0	0.8910576113452925
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	HISDEG-PWY:_L-histidine_degradation_I	1	0.3333333333333333	0.7385268024621451
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	0.3333333333333333	0.6419226741290048
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.3333333333333333	0.6875874414643345
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-3841:_folate_transformations_II_(plants)	1	0.25	0.5948152285231547
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-4984:_urea_cycle	2	0.6666666666666666	0.48726441307140456
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-5030:_L-histidine_degradation_III	1	0.3333333333333333	0.6594392392003925
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-5973:_cis-vaccenate_biosynthesis	1	0.25	0.613781880515244
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2	0.6666666666666666	0.5129498791994567
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3	1.0	0.9425504973429548
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.7303215847420443
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.7298398063683316
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.7263320403798195
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3	1.0	0.9425504973429548
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.3333333333333333	0.7546201540079339
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.7130219132434691
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.6045004557583569
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.2	0.6296524848741513
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6703:_preQ0_biosynthesis	1	0.3333333333333333	0.7159188349016741
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.3333333333333333	0.532449558626491
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.7030494304861299
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.6580210999832138
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.6107182553293924
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.25	0.5751670292552382
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.6638237117275625
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.3333333333333333	0.6419226741290048
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.5015099161170549
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.5317711579350626
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.3333333333333333	0.6547608707432337
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.6427717346806114
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	HISDEG-PWY:_L-histidine_degradation_I	1	0.3333333333333333	0.6926608584714038
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	0.3333333333333333	0.6136354878792716
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.3333333333333333	0.6582633324550935
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1	0.25	0.57045147329573
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-4984:_urea_cycle	2	0.6666666666666666	0.463466641670949
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5030:_L-histidine_degradation_III	1	0.3333333333333333	0.6307386551510925
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1	0.25	0.5879422523164715
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2	0.6666666666666666	0.4506484692112469
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	3	1.0	0.8411536348317861
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.696980104782791
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.6972336423857224
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.6962321388736984
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3	1.0	0.8411536348317861
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.3333333333333333	0.6841825758095665
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.6831777340157172
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.577161505172451
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.2	0.6034371605914199
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6703:_preQ0_biosynthesis	1	0.3333333333333333	0.6330651399289393
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.3333333333333333	0.5071848611120839
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.6221047910172668
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.62935326090721
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.5832156230598261
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.25	0.5509749379461186
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.6350226968029362
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.3333333333333333	0.6136354878792716
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.47723589324009486
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.4891989599825821
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.3333333333333333	0.6261687943621155
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.6144640619045285
+HISDEG-PWY:_L-histidine_degradation_I	NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	1	1.0	0.8934167337585929
+HISDEG-PWY:_L-histidine_degradation_I	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	1.0	0.9445293823316839
+HISDEG-PWY:_L-histidine_degradation_I	PWY-3841:_folate_transformations_II_(plants)	1	0.5	0.8046823225264594
+HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	1	1.0	0.913181462014877
+HISDEG-PWY:_L-histidine_degradation_I	PWY-5973:_cis-vaccenate_biosynthesis	1	0.5	0.8389323782723629
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.3333333333333333	0.6884107239014202
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9911723093477871
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.990652714965957
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9868653649880927
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.6884107239014202
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.9828033040951756
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9724260415080935
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8505150347771462
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8570058140296174
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6703:_preQ0_biosynthesis	1	1.0	0.8826703629120137
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7652205160808813
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8619612316650634
+HISDEG-PWY:_L-histidine_degradation_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9115887086949356
+HISDEG-PWY:_L-histidine_degradation_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8577080152528223
+HISDEG-PWY:_L-histidine_degradation_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.785880597574207
+HISDEG-PWY:_L-histidine_degradation_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9180975990255056
+HISDEG-PWY:_L-histidine_degradation_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.8934167337585929
+HISDEG-PWY:_L-histidine_degradation_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7274597246340078
+HISDEG-PWY:_L-histidine_degradation_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9079221269481745
+HISDEG-PWY:_L-histidine_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8943793723474728
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	1.0	0.9485833639545903
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-3841:_folate_transformations_II_(plants)	1	0.5	0.8900123027120403
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-5030:_L-histidine_degradation_III	1	1.0	0.9800506725704741
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-5973:_cis-vaccenate_biosynthesis	1	0.5	0.9292355959047887
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.3333333333333333	0.5952686672877243
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9021523611228622
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.9026670494615107
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9064203636148596
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.5952686672877243
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.8764464966013137
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9207578055776654
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9564036987706226
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.9130902581093437
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6703:_preQ0_biosynthesis	1	1.0	0.7788526277010632
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.8685135219928468
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.758924813705345
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9816551586110277
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9637413853571142
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8728757285851307
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9751017876455246
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	1.0
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8290780091050808
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9853508405387162
+NAGLIPASYN-PWY:_lipid_IVA_biosynthesis_(E._coli)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9990264012286083
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-3841:_folate_transformations_II_(plants)	1	0.5	0.8491562861356727
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5030:_L-histidine_degradation_III	1	1.0	0.9685003813650973
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5973:_cis-vaccenate_biosynthesis	1	0.5	0.887244734155571
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.3333333333333333	0.6391765958487429
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9533342218044849
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.953852740026458
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9576331494359777
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.6391765958487429
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.9274019385412153
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9720606062773341
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9051995650247694
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.9055419156724822
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6703:_preQ0_biosynthesis	1	1.0	0.8283171170951552
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.8183251157861241
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.807961074435927
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9668969815824079
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9124878977731903
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8310761033828729
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9734475843759559
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9485833639545903
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7795983146004359
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9632048088915672
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9495544374628054
+PWY-3841:_folate_transformations_II_(plants)	PWY-5030:_L-histidine_degradation_III	1	0.5	0.8742821904819617
+PWY-3841:_folate_transformations_II_(plants)	PWY-5973:_cis-vaccenate_biosynthesis	2	1.0	0.9581510748576769
+PWY-3841:_folate_transformations_II_(plants)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.25	0.5545471728657332
+PWY-3841:_folate_transformations_II_(plants)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.8117611236877291
+PWY-3841:_folate_transformations_II_(plants)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.5	0.8121777657098012
+PWY-3841:_folate_transformations_II_(plants)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.5	0.8152146456253241
+PWY-3841:_folate_transformations_II_(plants)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.25	0.5545471728657332
+PWY-3841:_folate_transformations_II_(plants)	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.5	0.7908912972678406
+PWY-3841:_folate_transformations_II_(plants)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.5	0.8267920648564832
+PWY-3841:_folate_transformations_II_(plants)	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.5	0.8471489310376021
+PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2	0.6666666666666666	0.9011721372449318
+PWY-3841:_folate_transformations_II_(plants)	PWY-6703:_preQ0_biosynthesis	1	0.5	0.7105564294881266
+PWY-3841:_folate_transformations_II_(plants)	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.5	0.7619682153667555
+PWY-3841:_folate_transformations_II_(plants)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.6939349443062829
+PWY-3841:_folate_transformations_II_(plants)	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.875558665200691
+PWY-3841:_folate_transformations_II_(plants)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.5	0.8543346018998532
+PWY-3841:_folate_transformations_II_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.9618045949895367
+PWY-3841:_folate_transformations_II_(plants)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.8703421796878049
+PWY-3841:_folate_transformations_II_(plants)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.5	0.8900123027120403
+PWY-3841:_folate_transformations_II_(plants)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.5	0.7242737762799243
+PWY-3841:_folate_transformations_II_(plants)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.5	0.8784971077562277
+PWY-3841:_folate_transformations_II_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.8893497904187274
+PWY-4984:_urea_cycle	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	2	1.0	0.8985553732200009
+PWY-4984:_urea_cycle	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	2	0.6666666666666666	0.44814163012906305
+PWY-4984:_urea_cycle	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	2	0.6666666666666666	0.44814163012906305
+PWY-4984:_urea_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	1.0	0.9383737396083311
+PWY-5030:_L-histidine_degradation_III	PWY-5973:_cis-vaccenate_biosynthesis	1	0.5	0.9146331486370904
+PWY-5030:_L-histidine_degradation_III	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.3333333333333333	0.6120859307962494
+PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9219493340750561
+PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.9224658267010749
+PWY-5030:_L-histidine_degradation_III	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.926231977151401
+PWY-5030:_L-histidine_degradation_III	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.6120859307962494
+PWY-5030:_L-histidine_degradation_III	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.8961398285148487
+PWY-5030:_L-histidine_degradation_III	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9406132527456328
+PWY-5030:_L-histidine_degradation_III	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.936509590022876
+PWY-5030:_L-histidine_degradation_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.9329232885470988
+PWY-5030:_L-histidine_degradation_III	PWY-6703:_preQ0_biosynthesis	1	1.0	0.7979103880350644
+PWY-5030:_L-histidine_degradation_III	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.8489603815722537
+PWY-5030:_L-histidine_degradation_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.7778055440427141
+PWY-5030:_L-histidine_degradation_III	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9983949265551357
+PWY-5030:_L-histidine_degradation_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9438326857105023
+PWY-5030:_L-histidine_degradation_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8566945859180767
+PWY-5030:_L-histidine_degradation_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9950486557295241
+PWY-5030:_L-histidine_degradation_III	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9800506725704741
+PWY-5030:_L-histidine_degradation_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8097772990013314
+PWY-5030:_L-histidine_degradation_III	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.994698282653222
+PWY-5030:_L-histidine_degradation_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9810239027759479
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.25	0.571107603328276
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.8466079437692113
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.5	0.8470598769811476
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.5	0.8503545535322244
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.25	0.571107603328276
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.5	0.8239941036550638
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.5	0.8629238239586843
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.5	0.8859910199351133
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2	0.6666666666666666	0.9400341752378033
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6703:_preQ0_biosynthesis	1	0.5	0.7373782798484194
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.5	0.7996136253967392
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.7195424492422913
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.9160263835144002
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.5	0.893250880209292
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.9447490480523726
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.9103338515064032
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.5	0.9292355959047887
+PWY-5973:_cis-vaccenate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.5	0.7612019139091573
+PWY-5973:_cis-vaccenate_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.5	0.9192342766590423
+PWY-5973:_cis-vaccenate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.930204386028006
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	2	0.6666666666666666	0.5198456644403648
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	2	0.6666666666666666	0.5198456644403648
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	1.0	0.9071227174225003
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.680461958975285
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.6799954565090753
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.6765996408908761
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	3	1.0	1.0
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.3333333333333333	0.7040214762984557
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.6637259479176914
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.5594458511018559
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.2	0.5863440630355012
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1	0.3333333333333333	0.7383008242608167
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.3333333333333333	0.4908760827627353
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.7258402645179279
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.610723232967263
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.5653879828777276
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.25	0.5352126334476228
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.6163003045565854
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.3333333333333333	0.5952686672877243
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.46159236273246085
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.48616690878581215
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.3333333333333333	0.6075912455122496
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.5960831042509855
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.9994803627403323
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9956925561986808
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.680461958975285
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.973979563530268
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9812491679382277
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8591568678420158
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8647227783167643
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6703:_preQ0_biosynthesis	1	1.0	0.8739732044805623
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7735789353429039
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8533122893095788
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9203542384163459
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8663678492744815
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.7930614258384883
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.926872417773271
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9021523611228622
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.735651418706377
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9166820938919078
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9031167303734196
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9962121849800508
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.6799954565090753
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.9734602851190827
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9817686275581299
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8596662344467776
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8651770801083637
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6703:_preQ0_biosynthesis	1	1.0	0.873461853978671
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7740719906310858
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8528038719864527
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9208706007550612
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8668782425267478
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.7934842239041344
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9273892958395095
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9026670494615107
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7361348100259657
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9171981462379963
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9036315160430265
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.3333333333333333	0.6765996408908761
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	1.0	0.9696755185443724
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9855554450794913
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8633814287250879
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8684887923462801
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6703:_preQ0_biosynthesis	1	1.0	0.8697364746689398
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7776695411344687
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8491001914120007
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9246358270578316
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.870600809222078
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.7965664821116273
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9311581768855911
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9064203636148596
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7396624247910122
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9209611716695781
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9073855243722304
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	1	0.3333333333333333	0.7040214762984557
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.6637259479176914
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.5594458511018559
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.2	0.5863440630355012
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6703:_preQ0_biosynthesis	1	0.3333333333333333	0.7383008242608167
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.3333333333333333	0.4908760827627353
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.7258402645179279
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.610723232967263
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.5653879828777276
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.25	0.5352126334476228
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.6163003045565854
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.3333333333333333	0.5952686672877243
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.46159236273246085
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.48616690878581215
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.3333333333333333	0.6075912455122496
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.5960831042509855
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9552505649342018
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8337457200197352
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8419806237449143
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6703:_preQ0_biosynthesis	1	1.0	0.8996646139053592
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7490370658042171
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8788703888000536
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8945523335337574
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.840900627873452
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.7719047005622874
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9010402830017198
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.8764464966013137
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7116146310377824
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.8908981866930079
+PWY-6385:_peptidoglycan_biosynthesis_III_(mycobacteria)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8774053482733626
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8775844093977814
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8811193127343923
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6703:_preQ0_biosynthesis	1	1.0	0.855563690912013
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.7914443269096554
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.8350152505446622
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9390139924925536
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.884830098499808
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8083250847487321
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9455485858919336
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9207578055776654
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7531788184316166
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9353318962643615
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9217253654529292
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.8699865703913322
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6703:_preQ0_biosynthesis	1	1.0	0.7377844014561878
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.9116031035621619
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.7182892882367793
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9381083562901744
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9926506960638823
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8846710214267579
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9315797545376545
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9564036987706226
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8717184115342234
+PWY-6609:_adenine_and_adenosine_salvage_III	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9417917139828111
+PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9554319917019504
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6703:_preQ0_biosynthesis	1	0.3333333333333333	0.7546952914656206
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6897:_thiamine_diphosphate_salvage_II	1	0.3333333333333333	0.7840712958391296
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.7366864555981989
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.9313256087965331
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.8772185556493406
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	0.6666666666666666	0.88575851574014
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.9287070730576931
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.3333333333333333	0.9130902581093437
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.7459422408861834
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.3333333333333333	0.9276473013946779
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.9140565847599256
+PWY-6703:_preQ0_biosynthesis	PWY-6897:_thiamine_diphosphate_salvage_II	1	1.0	0.6573302623253527
+PWY-6703:_preQ0_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.9789499411881522
+PWY-6703:_preQ0_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.7963713653395271
+PWY-6703:_preQ0_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.7446416036827241
+PWY-6703:_preQ0_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.6908563308832227
+PWY-6703:_preQ0_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.8026642751714216
+PWY-6703:_preQ0_biosynthesis	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.7788526277010632
+PWY-6703:_preQ0_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6222106762458457
+PWY-6703:_preQ0_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.7928306365023452
+PWY-6703:_preQ0_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7797788109103025
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.6388850047446896
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8505292188633791
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.904315961303253
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.7983300939746232
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.84412560783336
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.8685135219928468
+PWY-6897:_thiamine_diphosphate_salvage_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9596578402130596
+PWY-6897:_thiamine_diphosphate_salvage_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.8541453029458794
+PWY-6897:_thiamine_diphosphate_salvage_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.867556877937453
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.7762802576534737
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.7250693819680001
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.6741642643085811
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.7825176226298245
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.758924813705345
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6043073582151104
+PWY-6902:_chitin_degradation_II_(Vibrio)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.7727715046360047
+PWY-6902:_chitin_degradation_II_(Vibrio)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7598420448817655
+PWY-7238:_sucrose_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9454328397804712
+PWY-7238:_sucrose_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8579977276066044
+PWY-7238:_sucrose_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9934436343898754
+PWY-7238:_sucrose_biosynthesis_II	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9816551586110277
+PWY-7238:_sucrose_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8113247658584334
+PWY-7238:_sucrose_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9963033246406886
+PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9826284471175378
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.5	0.8919287254781192
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9388983340400044
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9637413853571142
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8644968573028813
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9491192516239644
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.96276910088645
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.85267326659484
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	0.5	0.8728757285851307
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.5	0.759941006048193
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.5	0.8609981619190684
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.872087111181675
+PWY-7977:_L-methionine_biosynthesis_IV	PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	1	1.0	0.9751017876455246
+PWY-7977:_L-methionine_biosynthesis_IV	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8050096080072136
+PWY-7977:_L-methionine_biosynthesis_IV	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9897472075249854
+PWY-7977:_L-methionine_biosynthesis_IV	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9760748064494346
+PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8290780091050808
+PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9853508405387162
+PWY-8073:_lipid_IVA_biosynthesis_(P._putida)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9990264012286083
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.814892333972345
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8281330106232041
+THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9863242442609592

@@ -1,41 +1,41 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	4
-UNINTEGRATED	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	4
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1
-UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	2
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	2
-UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	3
-UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	4
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-5973:_cis-vaccenate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-5973:_cis-vaccenate_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-6609:_adenine_and_adenosine_salvage_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1	0.1	0.0005380973678867917
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	4	0.4	0.0016501316703916302
+UNINTEGRATED	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	4	0.4	0.0010906777982228055
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1	0.1	0.0011602126902187093
+UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	2	0.2	0.0010359578788247115
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	0.2	0.001034500155870699
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	0.2	0.0014322947196130364
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	2	0.2	0.000924013665093204
+UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.1	0.0010354200783707634
+UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	0.2	0.0011842594635618209
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	3	0.3	0.001681858155495819
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	4	0.4	0.0016007508758680844
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	0.1	0.0010363659465200126
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.25	0.49160453343872035
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.25	0.23816999515240145
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	2	0.3333333333333333	0.2697873672422687
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.14285714285714285	0.15667590801288644
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.14285714285714285	0.1473611841328346
+PWY-3841:_folate_transformations_II_(plants)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.3333333333333333	0.8163297497514383
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	1.0	0.9618198273366206
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.8393295551017599
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	2	1.0	0.942856867627722
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.9077485440721762
+PWY-5973:_cis-vaccenate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.3399183955819225
+PWY-5973:_cis-vaccenate_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.5	0.7856614099043245
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.8386433946128371
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	2	1.0	0.9435590185308812
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.8720611024781135
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.34010086938212425
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.5	0.7849894504529447
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	2	1.0	0.7841680219841849
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.9051438898553391
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.29663763285570965
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.5	0.7281708828107157
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	2	1.0	0.8714360392812248
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.3545247553996611
+PWY-6609:_adenine_and_adenosine_salvage_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.5	0.7318031468039992
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9995432161908787
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.3223234466625571
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.5	0.731687892827726
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.4	0.28140425997401386

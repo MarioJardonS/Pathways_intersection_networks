@@ -1,28 +1,28 @@
-UNINTEGRATED	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1
-UNINTEGRATED	POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	1
-UNINTEGRATED	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-UNINTEGRATED	PWY-6606:_guanosine_nucleotides_degradation_II	1
-UNINTEGRATED	PWY-6608:_guanosine_nucleotides_degradation_III	1
-UNINTEGRATED	PWY-6859:_all-trans-farnesol_biosynthesis	1
-UNINTEGRATED	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6606:_guanosine_nucleotides_degradation_II	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6608:_guanosine_nucleotides_degradation_III	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6859:_all-trans-farnesol_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6606:_guanosine_nucleotides_degradation_II	1
-POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6608:_guanosine_nucleotides_degradation_III	1
-POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6859:_all-trans-farnesol_biosynthesis	1
-POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6606:_guanosine_nucleotides_degradation_II	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6608:_guanosine_nucleotides_degradation_III	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6859:_all-trans-farnesol_biosynthesis	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6606:_guanosine_nucleotides_degradation_II	PWY-6608:_guanosine_nucleotides_degradation_III	1
-PWY-6606:_guanosine_nucleotides_degradation_II	PWY-6859:_all-trans-farnesol_biosynthesis	1
-PWY-6606:_guanosine_nucleotides_degradation_II	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6608:_guanosine_nucleotides_degradation_III	PWY-6859:_all-trans-farnesol_biosynthesis	1
-PWY-6608:_guanosine_nucleotides_degradation_III	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
+UNINTEGRATED	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1	1.0	0.0005570005843192893
+UNINTEGRATED	POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	1	1.0	0.0015722963139713775
+UNINTEGRATED	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.0024375378448818763
+UNINTEGRATED	PWY-6606:_guanosine_nucleotides_degradation_II	1	1.0	0.003976811995377805
+UNINTEGRATED	PWY-6608:_guanosine_nucleotides_degradation_III	1	1.0	0.003976811995377805
+UNINTEGRATED	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.0012772105470142403
+UNINTEGRATED	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.0012131672781079406
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	1	1.0	0.5229817463562316
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.3717261211454963
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6606:_guanosine_nucleotides_degradation_II	1	1.0	0.2453408723365854
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6608:_guanosine_nucleotides_degradation_III	1	1.0	0.2453408723365854
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.6071938527479632
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.62917795249009
+POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.7840136846024949
+POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6606:_guanosine_nucleotides_degradation_II	1	1.0	0.5661955023698275
+POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6608:_guanosine_nucleotides_degradation_III	1	1.0	0.5661955023698275
+POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.8963701840584257
+POLYISOPRENSYN-PWY:_polyisoprenoid_biosynthesis_(E._coli)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.870981931521598
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6606:_guanosine_nucleotides_degradation_II	1	1.0	0.7596632668639183
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6608:_guanosine_nucleotides_degradation_III	1	1.0	0.7596632668639183
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.6873810993781525
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.6643489153115384
+PWY-6606:_guanosine_nucleotides_degradation_II	PWY-6608:_guanosine_nucleotides_degradation_III	1	1.0	1.0
+PWY-6606:_guanosine_nucleotides_degradation_II	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.48568668287039407
+PWY-6606:_guanosine_nucleotides_degradation_II	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.4670082459730406
+PWY-6608:_guanosine_nucleotides_degradation_III	PWY-6859:_all-trans-farnesol_biosynthesis	1	1.0	0.48568668287039407
+PWY-6608:_guanosine_nucleotides_degradation_III	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.4670082459730406
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.9742677036062328

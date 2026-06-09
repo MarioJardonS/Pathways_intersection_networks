@@ -1,26 +1,26 @@
-UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	2
-UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	2
-UNINTEGRATED	PWY-5695:_inosine_5'-phosphate_degradation	2
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	2
-HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	2
-HISDEG-PWY:_L-histidine_degradation_I	PWY-5695:_inosine_5'-phosphate_degradation	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-HISDEG-PWY:_L-histidine_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-5030:_L-histidine_degradation_III	PWY-5695:_inosine_5'-phosphate_degradation	1
-PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-5030:_L-histidine_degradation_III	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5695:_inosine_5'-phosphate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1
+UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	2	0.6666666666666666	0.0022737400159280607
+UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	2	0.6666666666666666	0.0024283430086432523
+UNINTEGRATED	PWY-5695:_inosine_5'-phosphate_degradation	2	0.6666666666666666	0.0030649280202960094
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	0.6666666666666666	0.002067008363486167
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	0.6666666666666666	0.00185912411509781
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.002624021291056433
+UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.0037477084319186282
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	2	0.6666666666666666	0.002395885297698408
+HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	2	1.0	0.9107465327495617
+HISDEG-PWY:_L-histidine_degradation_I	PWY-5695:_inosine_5'-phosphate_degradation	1	0.3333333333333333	0.35759562367979203
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	1.0	0.9194583469485773
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.8995755974110322
+HISDEG-PWY:_L-histidine_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	2	1.0	0.9738120436654221
+PWY-5030:_L-histidine_degradation_III	PWY-5695:_inosine_5'-phosphate_degradation	1	0.3333333333333333	0.3475217652198629
+PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	1.0	0.9195305274026294
+PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.8670966140295961
+PWY-5030:_L-histidine_degradation_III	VALSYN-PWY:_L-valine_biosynthesis	2	1.0	0.8897291137929249
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.3720128703400688
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.3877288980616984
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.5	0.7420568058731496
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.6194811198751984
+PWY-5695:_inosine_5'-phosphate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.3495894700323502
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.9469992614636693
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	2	1.0	0.8964986273955771
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	2	1.0	0.8737197467608248
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.8233722774505214

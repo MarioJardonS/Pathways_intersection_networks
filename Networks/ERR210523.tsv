@@ -1,104 +1,104 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1
-UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	2
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-UNINTEGRATED	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	1
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1
-UNINTEGRATED	PWY-5941:_glycogen_degradation_II	1
-UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3
-UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1
-UNINTEGRATED	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5941:_glycogen_degradation_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-5941:_glycogen_degradation_II	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7238:_sucrose_biosynthesis_II	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5941:_glycogen_degradation_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5941:_glycogen_degradation_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5941:_glycogen_degradation_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5941:_glycogen_degradation_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5941:_glycogen_degradation_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-5941:_glycogen_degradation_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-5941:_glycogen_degradation_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5941:_glycogen_degradation_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-5941:_glycogen_degradation_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-5941:_glycogen_degradation_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1
-PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1	0.2	0.0004615975202763023
+UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	2	0.4	0.0005151028246074274
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.2	0.0014389745708012214
+UNINTEGRATED	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	1	0.2	0.0012132824348060067
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1	0.2	0.000283182700787421
+UNINTEGRATED	PWY-5941:_glycogen_degradation_II	1	0.2	0.0014399329968339813
+UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.2	0.0007291926054742159
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	2	0.4	0.0014173215991224453
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3	0.6	0.001789999933661246
+UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.2	0.001198089540117575
+UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.2	0.0007291926054742159
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.2	0.0014574497821271404
+UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.2	0.0007085578823645688
+UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.2	0.00108251326695874
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.2	0.001779457467965595
+UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1	0.2	0.0021283502316893355
+UNINTEGRATED	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.2	0.0009840634476335763
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.2	0.0003605979287691907
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	0.2	0.0010050725968825391
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1	0.5	0.8883326276265647
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.0841057602928792
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.25	0.0704963484445974
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	1	1.0	0.9148495797532443
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5941:_glycogen_degradation_II	1	1.0	0.9996668471244743
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.7671530555433131
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.8513185187699517
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9085943284706616
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9936167507812754
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.6597193973184019
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.8585431795178349
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8941242201322284
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8065867128117372
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8121461038731523
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8223606750392465
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-5941:_glycogen_degradation_II	1	1.0	0.9145188518161073
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.8330145617050174
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.80783197386909
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9936956807421693
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9085160553841812
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.7372568245125348
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.9430071143177977
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8106805839299102
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.7259496881773879
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8956269903449996
+GLYCOGENSYNTH-PWY:_glycogen_biosynthesis_I_(from_ADP-D-Glucose)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9060906160112738
+PWY-3841:_folate_transformations_II_(plants)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.12238813737626064
+PWY-5941:_glycogen_degradation_II	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.7668955380715878
+PWY-5941:_glycogen_degradation_II	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.8510657475662059
+PWY-5941:_glycogen_degradation_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9082639691464635
+PWY-5941:_glycogen_degradation_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.993949890790652
+PWY-5941:_glycogen_degradation_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.6594248539014104
+PWY-5941:_glycogen_degradation_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.8582167084275499
+PWY-5941:_glycogen_degradation_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8944536500902981
+PWY-5941:_glycogen_degradation_II	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8069074235367794
+PWY-5941:_glycogen_degradation_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8118247277712218
+PWY-5941:_glycogen_degradation_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.822038054138878
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	1.0	1.0
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6616931223586235
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	0.6666666666666666	0.8632343844400643
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.5	0.8378561836737299
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.5	0.7622192162197828
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.5	0.6664445480281868
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.5	0.865985569305328
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.5	0.685379633878126
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.6178688792584492
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.5	0.8194750415222705
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.8297174042242821
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.801767810646411
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.8464722019193347
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.3333333333333333	0.5669536702111981
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.3333333333333333	0.7535383876077882
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.3333333333333333	0.7700548151033696
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.7014222027230992
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	0.3333333333333333	0.7092897841453016
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.718993735972113
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9022681024112899
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.7431356693620844
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.9492932145593294
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8046094691403116
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.7201289023991599
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9018667378402989
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9123430393033471
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6616931223586235
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.6540875032126687
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.8522933026727942
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.9004401836920407
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8127387683374083
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8059954890013715
+PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8161858556349662
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.7911218663019255
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.5693585414795159
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.49926207169222514
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.8371643437686617
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8268950072981025
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7563170036233944
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.6740478228522515
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.9523363478866351
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9628848552484738
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9106324432799068
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.7119984382601474
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7217187264546961
+PWY-7238:_sucrose_biosynthesis_II	PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	1	1.0	0.6320998929875188
+PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6412724783652992
+PWY-7357:_thiamine_phosphate_formation_from_pyrithiamine_and_oxythiamine_(yeast)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9894327988011782

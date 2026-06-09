@@ -4,7 +4,7 @@ file  = open("argumentos.sh" , "w")
 file.write("#!/bin/bash\n")
 
 #argv[1] = grupo
-argumentos = open("../Data/{sys.argv[1]}.txt" , "r")
+argumentos = open("../Data/argumentos.txt" , "r")
 
 
 #argv[2] = medida

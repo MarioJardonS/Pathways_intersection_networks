@@ -1,49 +1,49 @@
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1
-UNINTEGRATED	PWY-5686:_UMP_biosynthesis_I	1
-UNINTEGRATED	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	1
-UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-UNINTEGRATED	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1
-UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2
-UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	2
-UNINTEGRATED	PWY-7790:_UMP_biosynthesis_II	1
-UNINTEGRATED	PWY-7791:_UMP_biosynthesis_III	1
-UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1
-UNINTEGRATED	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5686:_UMP_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-3841:_folate_transformations_II_(plants)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7790:_UMP_biosynthesis_II	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7791:_UMP_biosynthesis_III	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1
-PWY-7790:_UMP_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1
-PWY-7790:_UMP_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7791:_UMP_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.25	0.001372590690413622
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1	0.25	0.00140943146559791
+UNINTEGRATED	PWY-5686:_UMP_biosynthesis_I	1	0.25	0.0014137488187678793
+UNINTEGRATED	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	1	0.25	0.0012161528202128125
+UNINTEGRATED	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	0.25	0.0012610708479089405
+UNINTEGRATED	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1	0.25	0.0014709484945932827
+UNINTEGRATED	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	0.25	0.0012610708479089405
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2	0.5	0.0034484555388409888
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	2	0.5	0.0033771791338474966
+UNINTEGRATED	PWY-7790:_UMP_biosynthesis_II	1	0.25	0.0014137488187678793
+UNINTEGRATED	PWY-7791:_UMP_biosynthesis_III	1	0.25	0.0014137488187678793
+UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1	0.25	0.001355641828951204
+UNINTEGRATED	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.25	0.0014525343007240066
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5686:_UMP_biosynthesis_I	1	1.0	0.9852183080816318
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1	1.0	0.9653854985610276
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5689929440499999
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9852183080816318
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9852183080816318
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9937833638100548
+PWY-3841:_folate_transformations_II_(plants)	PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	1	1.0	0.9263383359224097
+PWY-3841:_folate_transformations_II_(plants)	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	1.0	0.944407677035076
+PWY-3841:_folate_transformations_II_(plants)	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	1.0	0.944407677035076
+PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5798448631407593
+PWY-3841:_folate_transformations_II_(plants)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9849286492454554
+PWY-5686:_UMP_biosynthesis_I	PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	1	1.0	0.9801570376114773
+PWY-5686:_UMP_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.581105855713473
+PWY-5686:_UMP_biosynthesis_I	PWY-7790:_UMP_biosynthesis_II	1	1.0	1.0
+PWY-5686:_UMP_biosynthesis_I	PWY-7791:_UMP_biosynthesis_III	1	1.0	1.0
+PWY-5686:_UMP_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9790036013011739
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	1	1.0	0.9818563602649605
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	1.0	0.9818563602649605
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5210076885267556
+PWY-6121:_5-aminoimidazole_ribonucleotide_biosynthesis_I	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9113653856128882
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	1	1.0	1.0
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5351111353720859
+PWY-6122:_5-aminoimidazole_ribonucleotide_biosynthesis_II	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9293954823743762
+PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5976040625284013
+PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9801570376114773
+PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9801570376114773
+PWY-6163:_chorismate_biosynthesis_from_3-dehydroquinate	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.959177646760285
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.5351111353720859
+PWY-6277:_superpathway_of_5-aminoimidazole_ribonucleotide_biosynthesis	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	1.0	0.9293954823743762
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7790:_UMP_biosynthesis_II	1	0.5	0.581105855713473
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7791:_UMP_biosynthesis_III	1	0.5	0.581105855713473
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.5	0.563944680614687
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	THISYNARA-PWY:_superpathway_of_thiamine_diphosphate_biosynthesis_III_(eukaryotes)	1	0.5	0.5923347530346829
+PWY-7790:_UMP_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1	1.0	1.0
+PWY-7790:_UMP_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9790036013011739
+PWY-7791:_UMP_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9790036013011739

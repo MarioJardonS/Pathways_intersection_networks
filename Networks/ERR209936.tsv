@@ -1,153 +1,153 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1
-UNINTEGRATED	PWY-5686:_UMP_biosynthesis_I	1
-UNINTEGRATED	PWY-5695:_inosine_5'-phosphate_degradation	1
-UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	3
-UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-UNINTEGRATED	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-UNINTEGRATED	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	3
-UNINTEGRATED	PWY-7790:_UMP_biosynthesis_II	1
-UNINTEGRATED	PWY-7791:_UMP_biosynthesis_III	1
-UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-2942:_L-lysine_biosynthesis_III	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-3841:_folate_transformations_II_(plants)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5686:_UMP_biosynthesis_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5695:_inosine_5'-phosphate_degradation	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5973:_cis-vaccenate_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7790:_UMP_biosynthesis_II	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5686:_UMP_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5695:_inosine_5'-phosphate_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-3841:_folate_transformations_II_(plants)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5686:_UMP_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5695:_inosine_5'-phosphate_degradation	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5973:_cis-vaccenate_biosynthesis	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7790:_UMP_biosynthesis_II	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7791:_UMP_biosynthesis_III	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-5686:_UMP_biosynthesis_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-5695:_inosine_5'-phosphate_degradation	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-5973:_cis-vaccenate_biosynthesis	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7790:_UMP_biosynthesis_II	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7791:_UMP_biosynthesis_III	1
-PWY-3841:_folate_transformations_II_(plants)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-3841:_folate_transformations_II_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5686:_UMP_biosynthesis_I	PWY-5695:_inosine_5'-phosphate_degradation	1
-PWY-5686:_UMP_biosynthesis_I	PWY-5973:_cis-vaccenate_biosynthesis	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5686:_UMP_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7790:_UMP_biosynthesis_II	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7791:_UMP_biosynthesis_III	1
-PWY-5686:_UMP_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5686:_UMP_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-5973:_cis-vaccenate_biosynthesis	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7790:_UMP_biosynthesis_II	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7791:_UMP_biosynthesis_III	1
-PWY-5695:_inosine_5'-phosphate_degradation	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5695:_inosine_5'-phosphate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	3
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1
-PWY-5973:_cis-vaccenate_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-5973:_cis-vaccenate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7790:_UMP_biosynthesis_II	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7791:_UMP_biosynthesis_III	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7790:_UMP_biosynthesis_II	1
-PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7791:_UMP_biosynthesis_III	1
-PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7790:_UMP_biosynthesis_II	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7791:_UMP_biosynthesis_III	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7790:_UMP_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1
-PWY-7790:_UMP_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7790:_UMP_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7791:_UMP_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1
-PWY-7791:_UMP_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7977:_L-methionine_biosynthesis_IV	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1	0.3333333333333333	0.0027976094450572475
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.3333333333333333	0.00347179424798294
+UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1	0.3333333333333333	0.0028312783180087786
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1	0.3333333333333333	0.002869254128849974
+UNINTEGRATED	PWY-5686:_UMP_biosynthesis_I	1	0.3333333333333333	0.002768412392250008
+UNINTEGRATED	PWY-5695:_inosine_5'-phosphate_degradation	1	0.3333333333333333	0.0033150885076305148
+UNINTEGRATED	PWY-5973:_cis-vaccenate_biosynthesis	3	1.0	0.003355359970722227
+UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.0030608130466206473
+UNINTEGRATED	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.0026300745094456346
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.0037328364222904975
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.005088082297525998
+UNINTEGRATED	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	0.3333333333333333	0.0034693621504910954
+UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	3	1.0	0.003611806108709592
+UNINTEGRATED	PWY-7790:_UMP_biosynthesis_II	1	0.3333333333333333	0.002768412392250008
+UNINTEGRATED	PWY-7791:_UMP_biosynthesis_III	1	0.3333333333333333	0.002768412392250008
+UNINTEGRATED	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.0029613552978157154
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.0020320372568702894
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	1.0	0.8922974302883401
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9940101279302104
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-3841:_folate_transformations_II_(plants)	1	1.0	0.9873393261104242
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5686:_UMP_biosynthesis_I	1	1.0	0.994747103584573
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5695:_inosine_5'-phosphate_degradation	1	1.0	0.9152149524654787
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.9092141218730834
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9550068509995433
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9690913545448959
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8565603422414598
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7090153992703879
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.8926443689145034
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8727680765945145
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.994747103584573
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.994747103584573
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9715258279054607
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8412980427395167
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.8982216426346045
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-3841:_folate_transformations_II_(plants)	1	1.0	0.9048283293143234
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5686:_UMP_biosynthesis_I	1	1.0	0.8871084023442267
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5695:_inosine_5'-phosphate_degradation	1	1.0	0.9768712763215742
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.8449069315721089
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9369852173545976
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.861848682355449
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9637021530588057
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.8107881081694104
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.9996490029787315
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8927269981988601
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.8871084023442267
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.8871084023442267
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9205278819399347
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.738072497316784
+PWY-2942:_L-lysine_biosynthesis_III	PWY-3841:_folate_transformations_II_(plants)	1	1.0	0.9933286922561412
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5686:_UMP_biosynthesis_I	1	1.0	0.9887575852481169
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5695:_inosine_5'-phosphate_degradation	1	1.0	0.9211647879476244
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.9151578571422868
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9609862087274861
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9631083125590343
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8624320179371072
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7145076694756997
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.898569016145522
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8786654792687985
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9887575852481169
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9887575852481169
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9775118644742322
+PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8354645787685963
+PWY-3841:_folate_transformations_II_(plants)	PWY-5686:_UMP_biosynthesis_I	1	1.0	0.9820876209614997
+PWY-3841:_folate_transformations_II_(plants)	PWY-5695:_inosine_5'-phosphate_degradation	1	1.0	0.927798122271963
+PWY-3841:_folate_transformations_II_(plants)	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.9217848945072233
+PWY-3841:_folate_transformations_II_(plants)	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9676490964043599
+PWY-3841:_folate_transformations_II_(plants)	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9564477237184991
+PWY-3841:_folate_transformations_II_(plants)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8689830838129246
+PWY-3841:_folate_transformations_II_(plants)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7206469193320502
+PWY-3841:_folate_transformations_II_(plants)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.9051761587477427
+PWY-3841:_folate_transformations_II_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8852438965454459
+PWY-3841:_folate_transformations_II_(plants)	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9820876209614997
+PWY-3841:_folate_transformations_II_(plants)	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9820876209614997
+PWY-3841:_folate_transformations_II_(plants)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9841807989381381
+PWY-3841:_folate_transformations_II_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8289809928477462
+PWY-5686:_UMP_biosynthesis_I	PWY-5695:_inosine_5'-phosphate_degradation	1	1.0	0.910002138134302
+PWY-5686:_UMP_biosynthesis_I	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.9040070034439156
+PWY-5686:_UMP_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9497658271471023
+PWY-5686:_UMP_biosynthesis_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9743400848187287
+PWY-5686:_UMP_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8514193973970857
+PWY-5686:_UMP_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7042146143563197
+PWY-5686:_UMP_biosynthesis_I	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.887454939810871
+PWY-5686:_UMP_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8676036654308922
+PWY-5686:_UMP_biosynthesis_I	PWY-7790:_UMP_biosynthesis_II	1	1.0	1.0
+PWY-5686:_UMP_biosynthesis_I	PWY-7791:_UMP_biosynthesis_III	1	1.0	1.0
+PWY-5686:_UMP_biosynthesis_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9662779753565399
+PWY-5686:_UMP_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8464229103909203
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-5973:_cis-vaccenate_biosynthesis	1	0.3333333333333333	0.8647902507454641
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9600557241885068
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.8846087004085781
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9406232774969872
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7885845868719519
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.97722208842918
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.9129565324798106
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.910002138134302
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.910002138134302
+PWY-5695:_inosine_5'-phosphate_degradation	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9435528507535118
+PWY-5695:_inosine_5'-phosphate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7597457490102966
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.8991164821043491
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	0.3333333333333333	0.8786460040457246
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.8137340303660212
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.6828332711850651
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	0.3333333333333333	0.8452085595460658
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	3	1.0	0.9570980184931817
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7790:_UMP_biosynthesis_II	1	0.3333333333333333	0.9040070034439156
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7791:_UMP_biosynthesis_III	1	0.3333333333333333	0.9040070034439156
+PWY-5973:_cis-vaccenate_biosynthesis	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.9132934357107615
+PWY-5973:_cis-vaccenate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.7540557045781872
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	1	1.0	0.9242036138573394
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9009140098912736
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.7507452266372396
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.9373348283475366
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.9172877338604718
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9497658271471023
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9497658271471023
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.983459832780126
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7977490666921045
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8264212625495887
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.680976036158963
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.8621929970185432
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8424788933524536
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.9743400848187287
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.9743400848187287
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9406693991987942
+PWY-6387:_UDP-N-acetylmuramoyl-pentapeptide_biosynthesis_I_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8715767383814234
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.846028481138089
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.9633516229538452
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8609417082542439
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.8514193973970857
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.8514193973970857
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.8845630321846853
+PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7045832964434329
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	1	1.0	0.8104496997163
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.726534413589827
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.7042146143563197
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.7042146143563197
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.7352963572630642
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.570163229153486
+PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.8930341361448599
+PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7790:_UMP_biosynthesis_II	1	1.0	0.887454939810871
+PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7791:_UMP_biosynthesis_III	1	1.0	0.887454939810871
+PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9208766718573689
+PWY-7199:_pyrimidine_deoxyribonucleosides_salvage	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.738399443888649
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7790:_UMP_biosynthesis_II	1	0.3333333333333333	0.8676036654308922
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7791:_UMP_biosynthesis_III	1	0.3333333333333333	0.8676036654308922
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-7977:_L-methionine_biosynthesis_IV	1	0.3333333333333333	0.900883165875005
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.7197254112926583
+PWY-7790:_UMP_biosynthesis_II	PWY-7791:_UMP_biosynthesis_III	1	1.0	1.0
+PWY-7790:_UMP_biosynthesis_II	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9662779753565399
+PWY-7790:_UMP_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8464229103909203
+PWY-7791:_UMP_biosynthesis_III	PWY-7977:_L-methionine_biosynthesis_IV	1	1.0	0.9662779753565399
+PWY-7791:_UMP_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8464229103909203
+PWY-7977:_L-methionine_biosynthesis_IV	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8136658970976254

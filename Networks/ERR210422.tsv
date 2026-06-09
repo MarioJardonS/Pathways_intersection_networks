@@ -1,4 +1,4 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	2
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	2
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	2
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	2
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	2	0.5	0.002028978829610617
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	2	0.5	0.0028446760862380627
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	2	0.5	0.0022372305004833004
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	2	1.0	0.8324328593908965

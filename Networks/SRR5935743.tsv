@@ -1,780 +1,780 @@
-UNINTEGRATED	ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	1
-UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1
-UNINTEGRATED	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1
-UNINTEGRATED	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1
-UNINTEGRATED	GLUCONEO-PWY:_gluconeogenesis_I	1
-UNINTEGRATED	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-UNINTEGRATED	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-UNINTEGRATED	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-UNINTEGRATED	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-UNINTEGRATED	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-UNINTEGRATED	PWY-1042:_glycolysis_IV	1
-UNINTEGRATED	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1
-UNINTEGRATED	PWY-4041:_&gamma;-glutamyl_cycle	1
-UNINTEGRATED	PWY-5097:_L-lysine_biosynthesis_VI	1
-UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	1
-UNINTEGRATED	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-UNINTEGRATED	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-UNINTEGRATED	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-UNINTEGRATED	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-UNINTEGRATED	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-UNINTEGRATED	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-UNINTEGRATED	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-UNINTEGRATED	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-UNINTEGRATED	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-UNINTEGRATED	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-UNINTEGRATED	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-UNINTEGRATED	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-UNINTEGRATED	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLUCONEO-PWY:_gluconeogenesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-1042:_glycolysis_IV	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-2942:_L-lysine_biosynthesis_III	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-4041:_&gamma;-glutamyl_cycle	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5097:_L-lysine_biosynthesis_VI	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5103:_L-isoleucine_biosynthesis_III	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	VALSYN-PWY:_L-valine_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLUCONEO-PWY:_gluconeogenesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-1042:_glycolysis_IV	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-4041:_&gamma;-glutamyl_cycle	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5097:_L-lysine_biosynthesis_VI	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLUCONEO-PWY:_gluconeogenesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-1042:_glycolysis_IV	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-2942:_L-lysine_biosynthesis_III	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-4041:_&gamma;-glutamyl_cycle	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5097:_L-lysine_biosynthesis_VI	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5103:_L-isoleucine_biosynthesis_III	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-CALVIN-PWY:_Calvin-Benson-Bassham_cycle	VALSYN-PWY:_L-valine_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	GLUCONEO-PWY:_gluconeogenesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1042:_glycolysis_IV	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-2942:_L-lysine_biosynthesis_III	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-4041:_&gamma;-glutamyl_cycle	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5097:_L-lysine_biosynthesis_VI	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5103:_L-isoleucine_biosynthesis_III	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-GLUCONEO-PWY:_gluconeogenesis_I	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1
-GLUCONEO-PWY:_gluconeogenesis_I	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-GLUCONEO-PWY:_gluconeogenesis_I	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-GLUCONEO-PWY:_gluconeogenesis_I	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-GLUCONEO-PWY:_gluconeogenesis_I	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-1042:_glycolysis_IV	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-2942:_L-lysine_biosynthesis_III	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-4041:_&gamma;-glutamyl_cycle	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-5097:_L-lysine_biosynthesis_VI	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-5103:_L-isoleucine_biosynthesis_III	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-GLUCONEO-PWY:_gluconeogenesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-GLUCONEO-PWY:_gluconeogenesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-GLUCONEO-PWY:_gluconeogenesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-GLUCONEO-PWY:_gluconeogenesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-1042:_glycolysis_IV	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-2942:_L-lysine_biosynthesis_III	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-4041:_&gamma;-glutamyl_cycle	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5097:_L-lysine_biosynthesis_VI	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5103:_L-isoleucine_biosynthesis_III	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	VALSYN-PWY:_L-valine_biosynthesis	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-1042:_glycolysis_IV	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-2942:_L-lysine_biosynthesis_III	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-4041:_&gamma;-glutamyl_cycle	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5097:_L-lysine_biosynthesis_VI	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5103:_L-isoleucine_biosynthesis_III	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	VALSYN-PWY:_L-valine_biosynthesis	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-1042:_glycolysis_IV	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-2942:_L-lysine_biosynthesis_III	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-4041:_&gamma;-glutamyl_cycle	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5097:_L-lysine_biosynthesis_VI	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PENTOSE-P-PWY:_pentose_phosphate_pathway	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-1042:_glycolysis_IV	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-2942:_L-lysine_biosynthesis_III	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-4041:_&gamma;-glutamyl_cycle	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5097:_L-lysine_biosynthesis_VI	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5103:_L-isoleucine_biosynthesis_III	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-1042:_glycolysis_IV	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-2942:_L-lysine_biosynthesis_III	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-4041:_&gamma;-glutamyl_cycle	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5097:_L-lysine_biosynthesis_VI	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PENTOSE-P-PWY:_pentose_phosphate_pathway	VALSYN-PWY:_L-valine_biosynthesis	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-1042:_glycolysis_IV	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-2942:_L-lysine_biosynthesis_III	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-4041:_&gamma;-glutamyl_cycle	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5097:_L-lysine_biosynthesis_VI	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-1042:_glycolysis_IV	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1
-PWY-1042:_glycolysis_IV	PWY-2942:_L-lysine_biosynthesis_III	1
-PWY-1042:_glycolysis_IV	PWY-4041:_&gamma;-glutamyl_cycle	1
-PWY-1042:_glycolysis_IV	PWY-5097:_L-lysine_biosynthesis_VI	1
-PWY-1042:_glycolysis_IV	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-1042:_glycolysis_IV	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-1042:_glycolysis_IV	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-1042:_glycolysis_IV	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-1042:_glycolysis_IV	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-1042:_glycolysis_IV	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-1042:_glycolysis_IV	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-1042:_glycolysis_IV	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-1042:_glycolysis_IV	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-1042:_glycolysis_IV	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-1042:_glycolysis_IV	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-1042:_glycolysis_IV	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-1042:_glycolysis_IV	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-1042:_glycolysis_IV	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-1042:_glycolysis_IV	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-1042:_glycolysis_IV	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-1042:_glycolysis_IV	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-1042:_glycolysis_IV	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-1042:_glycolysis_IV	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-1042:_glycolysis_IV	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-1042:_glycolysis_IV	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-1042:_glycolysis_IV	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-1042:_glycolysis_IV	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-4041:_&gamma;-glutamyl_cycle	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5097:_L-lysine_biosynthesis_VI	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-4041:_&gamma;-glutamyl_cycle	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5097:_L-lysine_biosynthesis_VI	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-2942:_L-lysine_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-2942:_L-lysine_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-5097:_L-lysine_biosynthesis_VI	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-4041:_&gamma;-glutamyl_cycle	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-4041:_&gamma;-glutamyl_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-4041:_&gamma;-glutamyl_cycle	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-4041:_&gamma;-glutamyl_cycle	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-4041:_&gamma;-glutamyl_cycle	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-5097:_L-lysine_biosynthesis_VI	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5097:_L-lysine_biosynthesis_VI	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5097:_L-lysine_biosynthesis_VI	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-5097:_L-lysine_biosynthesis_VI	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-5097:_L-lysine_biosynthesis_VI	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5103:_L-isoleucine_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-5103:_L-isoleucine_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-7234:_inosine-5'-phosphate_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	VALSYN-PWY:_L-valine_biosynthesis	1
-SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1
-SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1
-THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	1	1.0	0.00411448888939292
+UNINTEGRATED	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1	1.0	0.004895938690155477
+UNINTEGRATED	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1	1.0	0.003972530930969831
+UNINTEGRATED	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1	1.0	0.0053266022197444585
+UNINTEGRATED	GLUCONEO-PWY:_gluconeogenesis_I	1	1.0	0.004461031726674669
+UNINTEGRATED	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.004301252753902585
+UNINTEGRATED	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.004568976009378445
+UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.0041302400625076174
+UNINTEGRATED	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.00601370885845276
+UNINTEGRATED	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.0037191088714902953
+UNINTEGRATED	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.005212862920128125
+UNINTEGRATED	PWY-1042:_glycolysis_IV	1	1.0	0.0037055304745720052
+UNINTEGRATED	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.003717384108680055
+UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.003550921161110776
+UNINTEGRATED	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.008128009701164451
+UNINTEGRATED	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.003389136926786329
+UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.003778032131280029
+UNINTEGRATED	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.0036034872890107206
+UNINTEGRATED	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.004473203959290184
+UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.006784796620994293
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.0030053650897187145
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.0028678762187821505
+UNINTEGRATED	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.005149255498658523
+UNINTEGRATED	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.0030053650897187145
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.006235678313964876
+UNINTEGRATED	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.0033105064097387338
+UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.004610177867990117
+UNINTEGRATED	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.004295333143895519
+UNINTEGRATED	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.002953155175786648
+UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.006784796620994293
+UNINTEGRATED	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.00826429693916575
+UNINTEGRATED	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.0046414037981202805
+UNINTEGRATED	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.00455713993051865
+UNINTEGRATED	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.00455713993051865
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.003990295400972843
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.004187992236985183
+UNINTEGRATED	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.0031994330469278243
+UNINTEGRATED	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.004525129705717279
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.0043119377472150555
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	1	1.0	0.9130784008479349
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1	1.0	0.9824106458965863
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1	1.0	0.8713142766835899
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLUCONEO-PWY:_gluconeogenesis_I	1	1.0	0.9595026148397595
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.9777610285967635
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9475470692870217
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9980856003656821
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8120227110381243
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.949428872770441
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.8819701896043545
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-1042:_glycolysis_IV	1	1.0	0.9476014978499544
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9491971054724334
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.926338717364877
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6712669008382695
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9031531598742277
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9572860520094563
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9336632906961113
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.958139454053326
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7543724622957437
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8439499677876089
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8211604620980002
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.888043263790736
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8439499677876089
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7945481861514129
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8915204587241733
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9430615482640508
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9784507810870887
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8354000694955657
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7543724622957437
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6638411361522416
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9396901418052905
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9488434929267202
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9488434929267202
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9846454173361755
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9911284088661981
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8746628974111031
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9523673800763504
+ANAGLYCOLYSIS-PWY:_glycolysis_III_(from_glucose)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9765184624308683
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	CALVIN-PWY:_Calvin-Benson-Bassham_cycle	1	1.0	0.895648589072675
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1	1.0	0.9577634358388757
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLUCONEO-PWY:_gluconeogenesis_I	1	1.0	0.953411790970993
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.9351920955285872
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9653734590282814
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9149786527024066
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8972657051062958
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.8631090085322473
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9685693308392458
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-1042:_glycolysis_IV	1	1.0	0.8613115637241231
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.8628810058133314
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.8404387500403052
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.7510757364216887
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.8177656246763201
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.8708439787693446
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.8476203268884493
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9547743895398606
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.8378317136610975
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.7602799596333758
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.7383068872578233
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9747188403859934
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.7602799596333758
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.879314560563786
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8064241281261111
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9698677224801152
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9345049414534164
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7520263017532918
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.8378317136610975
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7432609575796355
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9732480190236309
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9640751643529661
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9640751643529661
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8978601386270797
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9218897586056788
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.7900288294682796
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9605476761773533
+ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9364301890767367
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	1	1.0	0.8540552682987488
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLUCONEO-PWY:_gluconeogenesis_I	1	1.0	0.9419546077954254
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.9601872480134213
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9300222775520901
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9804969029910889
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.7951108023930629
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.9669888630230434
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.8646618068105671
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-1042:_glycolysis_IV	1	1.0	0.9651587403039832
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9667567537400533
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9438553273770696
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6556685410905329
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9206072705777142
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9748565155425446
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9511956989713433
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9405938407029604
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7379154261789975
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8611582263145141
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8382409753733934
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8707085165116041
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8611582263145141
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7777619480761433
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.908936055074362
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9255467598690645
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9608762563239296
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8525625617749362
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7379154261789975
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6483311357899129
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9221833365096416
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9313159414203979
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9313159414203979
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9977646248365646
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9735431832315177
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8920141861318331
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9348326249604834
+CALVIN-PWY:_Calvin-Benson-Bassham_cycle	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9589460646323612
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	GLUCONEO-PWY:_gluconeogenesis_I	1	1.0	0.9113496663656145
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.8932477404008198
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9232491434645117
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.8731974377583541
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.9392386168985097
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.8219021713131967
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9891797408516089
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1042:_glycolysis_IV	1	1.0	0.8201286361944898
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.8216771866695209
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.799553061733033
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.7911161573503552
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.7772436062059779
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.8295373067672931
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.8066283017859053
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9127045748648854
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.8792411483724824
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.7208695772873261
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.699392938344134
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9830264713002121
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.7208695772873261
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.9211491954986618
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.7660999262275681
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.927723143908115
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8925655716733473
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7127977665593083
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.8792411483724824
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7831460058117221
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9310893178527196
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9219570180569444
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9219570180569444
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8562437442447051
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.880048926018998
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.7500092980517846
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9184470062657353
+GLCMANNANAUT-PWY:_superpathway_of_N-acetylglucosamine,_N-acetylmannosamine_and_N-acetylneuraminate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8944769511779821
+GLUCONEO-PWY:_gluconeogenesis_I	GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	1	1.0	0.9817251275238654
+GLUCONEO-PWY:_gluconeogenesis_I	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9880190043379466
+GLUCONEO-PWY:_gluconeogenesis_I	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9614140229735305
+GLUCONEO-PWY:_gluconeogenesis_I	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8513887801092228
+GLUCONEO-PWY:_gluconeogenesis_I	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.9091176145916866
+GLUCONEO-PWY:_gluconeogenesis_I	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9220951977019916
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-1042:_glycolysis_IV	1	1.0	0.9073008205638537
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9088871744169972
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.8861808648527304
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.707875278976563
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.8631923403454298
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9169323575232781
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.8934521424413735
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9986345244010907
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.792808860629407
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8046868869428223
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.782240209547359
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9282151798016651
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8046868869428223
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8336615923058421
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8516746870975579
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9835209350337436
+GLUCONEO-PWY:_gluconeogenesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9810352834907691
+GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7962607828155468
+GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.792808860629407
+GLUCONEO-PWY:_gluconeogenesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7002579666605175
+GLUCONEO-PWY:_gluconeogenesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9801390186724374
+GLUCONEO-PWY:_gluconeogenesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9893187496897391
+GLUCONEO-PWY:_gluconeogenesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9893187496897391
+GLUCONEO-PWY:_gluconeogenesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9441827404892563
+GLUCONEO-PWY:_gluconeogenesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9683628394933913
+GLUCONEO-PWY:_gluconeogenesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8350030080938428
+GLUCONEO-PWY:_gluconeogenesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9928509747915906
+GLUCONEO-PWY:_gluconeogenesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9829679559420783
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	1	1.0	0.9697507549693385
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9796745628902568
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8335659178169356
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.927271695244405
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9039570615887056
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-1042:_glycolysis_IV	1	1.0	0.9254493994259209
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9270405639405476
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9042565881426501
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6912486883525708
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.8811701211872409
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9351087217572835
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.911554798976163
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9803601420158599
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7753844705186022
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.822327589333189
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.7997180535281833
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.910058298105805
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.822327589333189
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8159462089710696
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8695960833033449
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9652565256525653
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9993099167994028
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8138425336684834
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7753844705186022
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6837156201349248
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9618779828455095
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9710495283018868
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9710495283018868
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9624192786265553
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9866299818920202
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8528341314758381
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9745794234508411
+GLYCOLYSIS:_glycolysis_I_(from_glucose_6-phosphate)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9987567846205161
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	1.0	0.9494563935410546
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8631260703186114
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.8972485010773155
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9340146041066901
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-1042:_glycolysis_IV	1	1.0	0.8954359567048773
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.897018595559526
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.8743711850052179
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.7188723432978618
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.8514548238897396
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9050458633575911
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.8816222618122513
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9893843062666837
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.8043040692959097
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.7931898364857214
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.7708570430719391
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9401446966934695
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.7931898364857214
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8453343548437193
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8399780640065011
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9955010424413855
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9690613175981381
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7848050776742473
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.8043040692959097
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7112018280166195
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9921181388114835
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9987000882958893
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9987000882958893
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9322470543618983
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9563983707970483
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8233711772773016
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9951676156408447
+HEMESYN2-PWY:_heme_b_biosynthesis_II_(oxygen-independent)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.970992879497574
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	1	1.0	0.8138701292971924
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.9475195539437827
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.8838583463089392
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-1042:_glycolysis_IV	1	1.0	0.9456925458872342
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9472878324676443
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.924434973693889
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6729754952774982
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9012570675306524
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.955375301406643
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.931757557508869
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9600506522342492
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7561722069653373
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8420827446896537
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8193079260715456
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8899340730020904
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8420827446896537
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7963824995863041
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8896289801920805
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9449699494604562
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9803643706767516
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8335381236708826
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7561722069653373
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6655402967844344
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9415977984866722
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9507530696122347
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9507530696122347
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9827315253053459
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9930426903391633
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.872779023852501
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9542776103833405
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9784318925130381
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PENTOSE-P-PWY:_pentose_phosphate_pathway	1	1.0	0.7636979241308012
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.9284653884602738
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-1042:_glycolysis_IV	1	1.0	0.761968752026529
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.7634785468100086
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.7419347669012621
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.8499733920639855
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.7202683867364659
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.7711462872116762
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.7488181873883628
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.8527243698016863
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.9395590475053364
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.6657767378733762
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.6451136609873969
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9223451763424843
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.6657767378733762
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.9818234934314432
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.7094676160922354
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8675434624659093
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8328950271846276
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.6580044805558353
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.9395590475053364
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.8418231962031095
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8708686218240358
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8618507386868729
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8618507386868729
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7972533187201539
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8205951162450651
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.6938975441607782
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8583873524499674
+NONOXIPENT-PWY:_pentose_phosphate_pathway_(non-oxidative_branch)_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.834774945916956
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	1	1.0	0.8323994533711563
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-1042:_glycolysis_IV	1	1.0	0.9981677699422785
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9997676357210645
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9768235090578008
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6268983656802285
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9534965291998782
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9921258117860937
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9841813507524001
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9077635853178182
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7074354725810825
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8936820737022014
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8705609272056098
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8383871526813763
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8936820737022014
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7466097656729971
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.9417721518987342
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8927990997754813
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9279581627673958
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8850140532411966
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7074354725810825
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6197344968736902
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8894561663606642
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8985348602982217
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8985348602982217
+PENTOSE-P-PWY:_pentose_phosphate_pathway	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9647560885880362
+PENTOSE-P-PWY:_pentose_phosphate_pathway	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9405839384366201
+PENTOSE-P-PWY:_pentose_phosphate_pathway	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9247571021554772
+PENTOSE-P-PWY:_pentose_phosphate_pathway	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9020322410411128
+PENTOSE-P-PWY:_pentose_phosphate_pathway	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9260351675392573
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-1042:_glycolysis_IV	1	1.0	0.8306192372254271
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.8321736249863714
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.8099611479303089
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.780791348621829
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.7875518053143709
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.8400625692390037
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.8170658018784095
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9234525304025694
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.8685925916720003
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.7308770141017196
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.7092675476545107
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9938456001439626
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.7308770141017196
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.9104053772405168
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.7763541692199412
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9384953030429599
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9032733891975019
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7227564629729128
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.8685925916720003
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7728587147035568
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.941866230635009
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9327204633175152
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9327204633175152
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8668569019747723
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8907273600215855
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.7601808550033373
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9292047939879806
+PHOSLIPSYN-PWY:_superpathway_of_phospholipid_biosynthesis_I_(bacteria)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.905188956334443
+PWY-1042:_glycolysis_IV	PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	1	1.0	0.9984001335400792
+PWY-1042:_glycolysis_IV	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9786548327001791
+PWY-1042:_glycolysis_IV	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6253222683281601
+PWY-1042:_glycolysis_IV	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9553249527176501
+PWY-1042:_glycolysis_IV	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9902937217639963
+PWY-1042:_glycolysis_IV	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9860131754243255
+PWY-1042:_glycolysis_IV	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.905947250017907
+PWY-1042:_glycolysis_IV	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7057609680385356
+PWY-1042:_glycolysis_IV	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8954939460955542
+PWY-1042:_glycolysis_IV	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8723628865698374
+PWY-1042:_glycolysis_IV	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8366033063317783
+PWY-1042:_glycolysis_IV	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8954939460955542
+PWY-1042:_glycolysis_IV	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7448959725589479
+PWY-1042:_glycolysis_IV	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.9435983646457042
+PWY-1042:_glycolysis_IV	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8909882814410458
+PWY-1042:_glycolysis_IV	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9261356825941989
+PWY-1042:_glycolysis_IV	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8868224389702457
+PWY-1042:_glycolysis_IV	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7057609680385356
+PWY-1042:_glycolysis_IV	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6181683018983049
+PWY-1042:_glycolysis_IV	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8876466925367343
+PWY-1042:_glycolysis_IV	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8967218304246182
+PWY-1042:_glycolysis_IV	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8967218304246182
+PWY-1042:_glycolysis_IV	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.962926252565844
+PWY-1042:_glycolysis_IV	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9387583753806239
+PWY-1042:_glycolysis_IV	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9265792102543255
+PWY-1042:_glycolysis_IV	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9002179218138059
+PWY-1042:_glycolysis_IV	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9242132081522243
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.9770557497730326
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.6266983649702915
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9537283934796116
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9918934623395286
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9844136577407884
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9075332028287038
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7072230117342833
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8939118171268663
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8707894052153132
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8381608659559759
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8939118171268663
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7463923335190479
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.9420037314839845
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8925694115559649
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9277270083346955
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.885243351380087
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7072230117342833
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6195357504612857
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8892266474546023
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8983048936719968
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8983048936719968
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9645240148370582
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9403523976626407
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9249881549451889
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9018021121592887
+PWY-1269:_CMP-3-deoxy-D-manno-octulosonate_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9258040784496704
+PWY-2942:_L-lysine_biosynthesis_III	PWY-4041:_&gamma;-glutamyl_cycle	1	1.0	0.607119188446084
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.9766478514936953
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9689549864362985
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9926394597783961
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.8848332881476683
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.6863854822342716
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9166531917364895
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8934176772015082
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8159002292815772
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.9166531917364895
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7250479844620653
+PWY-2942:_L-lysine_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.9649012765100926
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8699457339495891
+PWY-2942:_L-lysine_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9049403906673953
+PWY-2942:_L-lysine_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9079452208893427
+PWY-2942:_L-lysine_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6863854822342716
+PWY-2942:_L-lysine_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6000825662524792
+PWY-2942:_L-lysine_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8666213938295037
+PWY-2942:_L-lysine_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8756507896915557
+PWY-2942:_L-lysine_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8756507896915557
+PWY-2942:_L-lysine_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9416272782474475
+PWY-2942:_L-lysine_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9175210256454769
+PWY-2942:_L-lysine_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9478426376290359
+PWY-2942:_L-lysine_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8791301909083474
+PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9030249156766254
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-5097:_L-lysine_biosynthesis_VI	1	1.0	0.5875510981946006
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.6336964006259782
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.6133616420585323
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.7091247275770399
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.9095945706285392
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.5388721775066766
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.5206108774246198
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.7749405759154958
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.5388721775066766
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8677893655705093
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.5778418631198774
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.7230209829486118
+PWY-4041:_&gamma;-glutamyl_cycle	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.6906245219577014
+PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.5319906942521067
+PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.9095945706285392
+PWY-4041:_&gamma;-glutamyl_cycle	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.9916516927186858
+PWY-4041:_&gamma;-glutamyl_cycle	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.726147399383696
+PWY-4041:_&gamma;-glutamyl_cycle	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7176756045402204
+PWY-4041:_&gamma;-glutamyl_cycle	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7176756045402204
+PWY-4041:_&gamma;-glutamyl_cycle	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6576403986482123
+PWY-4041:_&gamma;-glutamyl_cycle	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.6792029239836856
+PWY-4041:_&gamma;-glutamyl_cycle	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.5638982601987358
+PWY-4041:_&gamma;-glutamyl_cycle	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.7144279134419432
+PWY-4041:_&gamma;-glutamyl_cycle	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6923738231532155
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-5103:_L-isoleucine_biosynthesis_III	1	1.0	0.9456422455498631
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9692925893978085
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.8618526717064521
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.6654831919222718
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9398883432996931
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.9165621550669729
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.793436124733904
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.9398883432996931
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7035989442311656
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.988243789266301
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8470580771799934
+PWY-5097:_L-lysine_biosynthesis_VI	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8818505158343969
+PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9311493627731435
+PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6654831919222718
+PWY-5097:_L-lysine_biosynthesis_VI	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.580646729134531
+PWY-5097:_L-lysine_biosynthesis_VI	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8437558952456093
+PWY-5097:_L-lysine_biosynthesis_VI	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8527262976880214
+PWY-5097:_L-lysine_biosynthesis_VI	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8527262976880214
+PWY-5097:_L-lysine_biosynthesis_VI	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9183863795904248
+PWY-5097:_L-lysine_biosynthesis_VI	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8943723225165218
+PWY-5097:_L-lysine_biosynthesis_VI	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.971159658990149
+PWY-5097:_L-lysine_biosynthesis_VI	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8561839731663364
+PWY-5097:_L-lysine_biosynthesis_VI	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8799446417218441
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	1	1.0	0.9763101133275963
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.9155764578198837
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7146523029787475
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8859034034350752
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8628265499609085
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8460654484064136
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.8859034034350752
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7539931105111256
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.933928257382931
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9005893734848653
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.93579592987516
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.8772510045438767
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7146523029787475
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6264902916376576
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8972409086477527
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9063342137069699
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9063342137069699
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9726226791247328
+PWY-5103:_L-isoleucine_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9484340013303728
+PWY-5103:_L-isoleucine_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9169321297225008
+PWY-5103:_L-isoleucine_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9098368759268414
+PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9338708412706466
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	1	1.0	0.8921023647075347
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.6930374385905471
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.9093482643181958
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.8861464554810917
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.8230209498349654
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.9093482643181958
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7318658760853185
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.9575517026179006
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8771887106504531
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9122395257559351
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9006519961832149
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6930374385905471
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6062841612410579
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8738580956751321
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8829041547365717
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8829041547365717
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9489658914210565
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9248359345289925
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9405049379403585
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8863896557454258
+PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9103214443308806
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7941160886957904
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.803373850611851
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.7809398705316701
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.9295737521901601
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.803373850611851
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8349895889189886
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.8503395229228311
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9848860705426229
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9796703343459873
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7949523516630185
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7941160886957904
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7015012695849568
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.981503992665447
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9906840894162168
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9906840894162168
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9428216228607704
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9669987895392064
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8336750054108211
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9942163939319815
+PWY-5484:_glycolysis_II_(from_fructose_6-phosphate)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9816029082013997
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.6131504451539216
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.5933942666257732
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.862549352791244
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.6131504451539216
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.957689071060149
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.6550834174180119
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.808634543408276
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.7747293050424297
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.6057136380831607
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	1.0
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.9013207397726822
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8118957894908563
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8030542581130785
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8030542581130785
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7399984775402586
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.7627270101761718
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.6401148710594764
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.799661140979197
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7765652927658545
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	1.0	0.9765562274845002
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.7365951389978683
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	1.0
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.6497281368383966
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.951610357784386
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.7888873045436571
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8229959702917001
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9912247009161275
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6131504451539216
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.5323242519758458
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7856573642964467
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7944344849944561
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7944344849944561
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8589666227569638
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.835306380490518
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9686743769351381
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.7978201651080724
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8211238850175016
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	1	1.0	0.7149118439018578
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.9765562274845002
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.6293282076114022
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.928247983322759
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.7665986999493992
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8003805470833234
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9853285082593687
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.5933942666257732
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.5142067573058876
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7634024942454252
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7720890679468777
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7720890679468777
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8360648778560397
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.812586220029283
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9452707970417445
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.775440771461108
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7985250041324419
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7234:_inosine-5'-phosphate_biosynthesis_III	1	1.0	0.7365951389978683
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.9043037444082761
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.7822087999901215
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9446287435219299
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9093738398224286
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.728447521637666
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.862549352791244
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7670299878892926
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9480020267361547
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9388495428990842
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9388495428990842
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8729071599415514
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8968123654174207
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.7659898692657117
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9353310174386101
+PWY-7208:_superpathway_of_pyrimidine_nucleobases_salvage	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9112915943857436
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.6497281368383966
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.951610357784386
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.7888873045436571
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8229959702917001
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9912247009161275
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6131504451539216
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.5323242519758458
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7856573642964467
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7944344849944561
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7944344849944561
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8589666227569638
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.835306380490518
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9686743769351381
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.7978201651080724
+PWY-7234:_inosine-5'-phosphate_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8211238850175016
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	1	1.0	0.692912795222067
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8497287485302915
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8152795875587785
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.6420530736686938
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.957689071060149
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.8595960270685501
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8530370603984052
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8440657939740679
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8440657939740679
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7798879747943287
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8030608192950385
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.6775153015950813
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8406210908939703
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8171475843344105
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.8355974650769691
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.8702744925636183
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.9428593225511139
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6550834174180119
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.571005463791276
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8323077081900164
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.841244952376616
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.841244952376616
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9067196682493528
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8827616961087128
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9829100753314567
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8446903493540868
+PWY-724:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8683742071177764
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	1	1.0	0.9645672919826062
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.7805186116412308
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.808634543408276
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.7153309176786562
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9966169764075435
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9942011646502996
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9942011646502996
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9277701137458028
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9519088468894042
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8190160378237488
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9906688609476516
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9664982939720345
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	1	1.0	0.814508787900007
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7747293050424297
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.6830947054879459
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9611889206620886
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9703600372554061
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9703600372554061
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.963108405087005
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9873199481010709
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8535093375691198
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9738897982835705
+PWY-8178:_pentose_phosphate_pathway_(non-oxidative_branch)_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.998066703078537
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6057136380831607
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.5254963134418196
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7773009444836984
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7860451388440315
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7860451388440315
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.8503764992237794
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8267814230897478
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.9599100982329716
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.7894184773441999
+PWY0-1241:_ADP-L-glycero-&beta;-D-manno-heptose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8126426791104426
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	1	1.0	0.9013207397726822
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8118957894908563
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.8030542581130785
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.8030542581130785
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.7399984775402586
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.7627270101761718
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.6401148710594764
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.799661140979197
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7765652927658545
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7184427897899025
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.7100107817808247
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.7100107817808247
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.6502916010386957
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.6717337506695433
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.5571621975221561
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.706778658602315
+PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6848349095735855
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	1	1.0	0.9908183211803161
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	0.9908183211803161
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9244055620631676
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9485341964489441
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.815745828088452
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9872862386963919
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9631194503127201
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	1	1.0	1.0
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9335411128426071
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9576958847771739
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.824630823889946
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.996467505154978
+PWY4FS-7:_phosphatidylglycerol_biosynthesis_I_(plastidic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9722917464150055
+PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9335411128426071
+PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9576958847771739
+PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.824630823889946
+PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.996467505154978
+PWY4FS-8:_phosphatidylglycerol_biosynthesis_II_(non-plastidic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9722917464150055
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.9757771258321052
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8898054107087702
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9370588312615837
+PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9611778770527906
+SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	1	1.0	0.8659403724762624
+SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.9612225847613665
+SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9853870094069206
+THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	1	1.0	0.8280568015207619
+THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8516180638878745
+UDPNAGSYN-PWY:_UDP-N-acetyl-D-glucosamine_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9758218747229458

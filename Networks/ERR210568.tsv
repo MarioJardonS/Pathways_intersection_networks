@@ -1,41 +1,41 @@
-UNINTEGRATED	BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	2
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2
-UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1
-UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	2
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2
-UNINTEGRATED	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	3
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	2
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-2942:_L-lysine_biosynthesis_III	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	2
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7238:_sucrose_biosynthesis_II	1
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-2942:_L-lysine_biosynthesis_III	PWY-5103:_L-isoleucine_biosynthesis_III	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-2942:_L-lysine_biosynthesis_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1
-PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6902:_chitin_degradation_II_(Vibrio)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	2	0.6666666666666666	0.0029628067810083536
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.3333333333333333	0.0014123389974746159
+UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2	0.6666666666666666	0.002942642836997633
+UNINTEGRATED	PWY-2942:_L-lysine_biosynthesis_III	1	0.3333333333333333	0.002487237991511848
+UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	2	0.6666666666666666	0.0028763864317907784
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	2	0.6666666666666666	0.0013510189296287445
+UNINTEGRATED	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.3333333333333333	0.0028463628042123545
+UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.002090974047339933
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	3	1.0	0.0036078157796431976
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.5	0.6452799097641754
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2	1.0	0.9933218776580639
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1	0.5	0.7209868466153805
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	2	1.0	0.9851783184662171
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.3899054495055919
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.6763610258102264
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.777574904749238
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	2	0.6666666666666666	0.9016744577761616
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	1	0.5	0.6482727875139491
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-2942:_L-lysine_biosynthesis_III	1	1.0	0.7241064447860255
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	1	0.5	0.6583051139611191
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.6629539214877432
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8061242063646238
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.5622231676896049
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-2942:_L-lysine_biosynthesis_III	1	0.5	0.7126852694648398
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	2	1.0	0.9885972527334492
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.3917397041921096
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.6684193986464495
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.7688462078436371
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	2	0.6666666666666666	0.8982891433568764
+PWY-2942:_L-lysine_biosynthesis_III	PWY-5103:_L-isoleucine_biosynthesis_III	1	0.5	0.7025749243393081
+PWY-2942:_L-lysine_biosynthesis_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1	1.0	0.9325779813370187
+PWY-2942:_L-lysine_biosynthesis_III	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9133472630724391
+PWY-2942:_L-lysine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.6512639539550709
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.3978900135957685
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-6902:_chitin_degradation_II_(Vibrio)	1	0.5	0.6584310452980463
+PWY-5103:_L-isoleucine_biosynthesis_III	PWY-7238:_sucrose_biosynthesis_II	1	0.5	0.7586788265902664
+PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	2	0.6666666666666666	0.8870174313744704
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	2	0.6666666666666666	0.5444459320419077
+PWY-6902:_chitin_degradation_II_(Vibrio)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8468201673206486
+PWY-6902:_chitin_degradation_II_(Vibrio)	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.6149887949675643
+PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.6965840207627125

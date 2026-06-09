@@ -1,12 +1,12 @@
-UNINTEGRATED	BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	2
-UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2
-UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	2
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	5
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	2
-BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	2
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	2
-ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	2
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	2	0.4	0.002919674776902581
+UNINTEGRATED	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2	0.4	0.0028991617444869
+UNINTEGRATED	PWY-5103:_L-isoleucine_biosynthesis_III	2	0.4	0.002456280656270571
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.2	0.000740377594756314
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	5	1.0	0.00575824963855831
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	2	1.0	0.9760279031891933
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	PWY-5103:_L-isoleucine_biosynthesis_III	2	1.0	0.9136873210188867
+BRANCHED-CHAIN-AA-SYN-PWY:_superpathway_of_branched_chain_amino_acid_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	2	0.4	0.67226208408806
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	PWY-5103:_L-isoleucine_biosynthesis_III	2	1.0	0.9171925043656667
+ILEUSYN-PWY:_L-isoleucine_biosynthesis_I_(from_threonine)	VALSYN-PWY:_L-valine_biosynthesis	2	0.4	0.6691145191486412
+PWY-5103:_L-isoleucine_biosynthesis_III	VALSYN-PWY:_L-valine_biosynthesis	2	0.4	0.5973398308170221
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	VALSYN-PWY:_L-valine_biosynthesis	1	0.2	0.22734973292004057

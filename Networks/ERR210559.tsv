@@ -1,30 +1,30 @@
-UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	2
-UNINTEGRATED	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1
-UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	2
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	3
-HISDEG-PWY:_L-histidine_degradation_I	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	2
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-HISDEG-PWY:_L-histidine_degradation_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-HISDEG-PWY:_L-histidine_degradation_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5030:_L-histidine_degradation_III	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PANTO-PWY:_phosphopantothenate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-3841:_folate_transformations_II_(plants)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2
-PWY-5030:_L-histidine_degradation_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-5030:_L-histidine_degradation_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2
-PWY-6700:_queuosine_biosynthesis_I_(de_novo)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
+UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	2	0.6666666666666666	0.0034755679644189463
+UNINTEGRATED	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.3333333333333333	0.003837609721535684
+UNINTEGRATED	PWY-3841:_folate_transformations_II_(plants)	1	0.3333333333333333	0.0009814105986634125
+UNINTEGRATED	PWY-5030:_L-histidine_degradation_III	2	0.6666666666666666	0.003985437632733957
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.002587289765684009
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	0.6666666666666666	0.0030685553013557465
+UNINTEGRATED	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.3333333333333333	0.004978000268739402
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	3	1.0	0.0033467922362091507
+HISDEG-PWY:_L-histidine_degradation_I	PANTO-PWY:_phosphopantothenate_biosynthesis_I	1	0.5	0.8151529417685737
+HISDEG-PWY:_L-histidine_degradation_I	PWY-5030:_L-histidine_degradation_III	2	1.0	0.9315349632122369
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.8532709044824666
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.9377033349271978
+HISDEG-PWY:_L-histidine_degradation_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.7049429016515631
+HISDEG-PWY:_L-histidine_degradation_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.515393586497416
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-5030:_L-histidine_degradation_III	1	0.5	0.8865694205045089
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	1.0	0.8050934201534472
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.5	0.7666452358664984
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.8703586970225234
+PANTO-PWY:_phosphopantothenate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.3333333333333333	0.42191153138220006
+PWY-3841:_folate_transformations_II_(plants)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.3333333333333333	0.4530806140801359
+PWY-5030:_L-histidine_degradation_III	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.5	0.7869461666469775
+PWY-5030:_L-histidine_degradation_III	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	2	1.0	0.8697936469155202
+PWY-5030:_L-histidine_degradation_III	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.773532087096219
+PWY-5030:_L-histidine_degradation_III	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.47948644006955454
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.5	0.9147886755627531
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	1.0	0.6834506676529672
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.3333333333333333	0.5109607226230762
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6700:_queuosine_biosynthesis_I_(de_novo)	1	0.5	0.6577445654762699
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	2	0.6666666666666666	0.5481465452569575
+PWY-6700:_queuosine_biosynthesis_I_(de_novo)	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.3333333333333333	0.3639848860074022

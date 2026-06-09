@@ -1,118 +1,118 @@
-UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1
-UNINTEGRATED	GALACTUROCAT-PWY:_D-galacturonate_degradation_I	1
-UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	3
-UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3
-UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-UNINTEGRATED	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-6823:_molybdopterin_biosynthesis	1
-UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1
-UNINTEGRATED	PWY-7242:_D-fructuronate_degradation	1
-UNINTEGRATED	PWY0-1296:_purine_ribonucleosides_degradation	1
-UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	2
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GALACTUROCAT-PWY:_D-galacturonate_degradation_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7242:_D-fructuronate_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1
-DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7238:_sucrose_biosynthesis_II	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7242:_D-fructuronate_degradation	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY0-1296:_purine_ribonucleosides_degradation	1
-GALACTUROCAT-PWY:_D-galacturonate_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6823:_molybdopterin_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7242:_D-fructuronate_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7242:_D-fructuronate_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2
-PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7242:_D-fructuronate_degradation	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7242:_D-fructuronate_degradation	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7242:_D-fructuronate_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6823:_molybdopterin_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6823:_molybdopterin_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7242:_D-fructuronate_degradation	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7242:_D-fructuronate_degradation	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7238:_sucrose_biosynthesis_II	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7242:_D-fructuronate_degradation	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7238:_sucrose_biosynthesis_II	PWY-7242:_D-fructuronate_degradation	1
-PWY-7238:_sucrose_biosynthesis_II	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7242:_D-fructuronate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7242:_D-fructuronate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1296:_purine_ribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1
+UNINTEGRATED	DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	1	0.2	0.00135670529093046
+UNINTEGRATED	GALACTUROCAT-PWY:_D-galacturonate_degradation_I	1	0.2	0.0015925699745299449
+UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	0.2	0.0010119681440574624
+UNINTEGRATED	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	3	0.6	0.0020428021211927883
+UNINTEGRATED	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3	0.6	0.0019685503761220913
+UNINTEGRATED	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.2	0.0012373867165196284
+UNINTEGRATED	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	0.2	0.0017943805513491728
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.2	0.0012000875580850945
+UNINTEGRATED	PWY-6823:_molybdopterin_biosynthesis	1	0.2	0.0011709403267217144
+UNINTEGRATED	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.2	0.001120512276064689
+UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.2	0.0007940505425904076
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.2	0.002157010319894348
+UNINTEGRATED	PWY-7238:_sucrose_biosynthesis_II	1	0.2	0.0015229539609478149
+UNINTEGRATED	PWY-7242:_D-fructuronate_degradation	1	0.2	0.0016274064414595335
+UNINTEGRATED	PWY0-1296:_purine_ribonucleosides_degradation	1	0.2	0.001813861569383013
+UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	0.2	0.0010119681440574624
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.4	0.0006514642153686578
+UNINTEGRATED	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	0.2	0.0016854796593251953
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	2	0.4	0.002525660190532464
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	GALACTUROCAT-PWY:_D-galacturonate_degradation_I	1	1.0	0.9199675906016854
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.7189843211222697
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.7394141972687327
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.9539739372388335
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	1.0	0.8609959613571263
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9387054251987359
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.9045953602870869
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.7382609829226958
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7720441225230881
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9422264833829641
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY-7242:_D-fructuronate_degradation	1	1.0	0.9092186848614194
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.855700446684371
+DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.6986405488059444
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6123:_inosine-5'-phosphate_biosynthesis_I	1	0.3333333333333333	0.6723105187152948
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	1	0.3333333333333333	0.6904122224051618
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	1.0	0.874404169714312
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	1.0	0.940364940973325
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8593629183883316
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.8258923434901067
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.665240973112046
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.8493276876333312
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9776377094944896
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY-7242:_D-fructuronate_degradation	1	1.0	0.9891724270985776
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9349819863897167
+GALACTUROCAT-PWY:_D-galacturonate_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7476173503899082
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6823:_molybdopterin_biosynthesis	1	1.0	0.9271345881068906
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	1.0
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.750157293473669
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6124:_inosine-5'-phosphate_biosynthesis_II	3	1.0	0.9778599277070887
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.7451489342676112
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	0.3333333333333333	0.6369255701659078
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.7399380802060641
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.3333333333333333	0.7082308033623955
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.3333333333333333	0.55955907455048
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.3333333333333333	0.5818797766683688
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.6854448707819063
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY-7242:_D-fructuronate_degradation	1	0.3333333333333333	0.6659248119605536
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY0-1296:_purine_ribonucleosides_degradation	1	0.3333333333333333	0.6337055986871908
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.48333783212315884
+PWY-6123:_inosine-5'-phosphate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	0.25	0.534869492167501
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6151:_S-adenosyl-L-methionine_salvage_I	1	0.3333333333333333	0.766946210794704
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	0.3333333333333333	0.6533567543128247
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.3333333333333333	0.7572975511136996
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	0.3333333333333333	0.725274563574999
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.3333333333333333	0.5746165308955411
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.3333333333333333	0.5958736487134022
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7238:_sucrose_biosynthesis_II	1	0.3333333333333333	0.704187374133389
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY-7242:_D-fructuronate_degradation	1	0.3333333333333333	0.6837190274500288
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY0-1296:_purine_ribonucleosides_degradation	1	0.3333333333333333	0.6499888051466687
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	2	0.6666666666666666	0.4970519760614234
+PWY-6124:_inosine-5'-phosphate_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.25	0.5469367395773651
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	1	1.0	0.8161461602741205
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.9846882913645245
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.9504036404771699
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.7816567040798359
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7288628071995222
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.896475700791949
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY-7242:_D-fructuronate_degradation	1	1.0	0.8637618667789432
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.8109300992877937
+PWY-6151:_S-adenosyl-L-methionine_salvage_I	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.657366939877842
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8013935519128448
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.7686592767717346
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.6133252469242765
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.908137328195986
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.9181118545753499
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY-7242:_D-fructuronate_degradation	1	1.0	0.9511609783744531
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9945960925592352
+PWY-6507:_4-deoxy-L-threo-hex-4-enopyranuronate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7126720749838623
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	1	1.0	0.965689293390273
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.7962873587941517
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.7147353955922207
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8813520650211051
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7242:_D-fructuronate_degradation	1	1.0	0.8487656388585945
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.7962083640211852
+PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.6439233154925408
+PWY-6823:_molybdopterin_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.9271345881068906
+PWY-6823:_molybdopterin_biosynthesis	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.8197411118260894
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.8294056922823595
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.6835222560899508
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8476615123210148
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY-7242:_D-fructuronate_degradation	1	1.0	0.8154127477103884
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.7635509646396892
+PWY-7111:_pyruvate_fermentation_to_isobutanol_(engineered)	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.6143245000508932
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	1.0	0.5378776132981078
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.6852470296142521
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY-7242:_D-fructuronate_degradation	1	1.0	0.6556614991025811
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.6087389009032669
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.4780700733697375
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7238:_sucrose_biosynthesis_II	1	1.0	0.8275464583007419
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY-7242:_D-fructuronate_degradation	1	1.0	0.8599267428594304
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9134982946872068
+PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.6574381145005057
+PWY-7238:_sucrose_biosynthesis_II	PWY-7242:_D-fructuronate_degradation	1	1.0	0.9668181708871414
+PWY-7238:_sucrose_biosynthesis_II	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9127465581750154
+PWY-7238:_sucrose_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7520979430449012
+PWY-7242:_D-fructuronate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9457713830344603
+PWY-7242:_D-fructuronate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7413429564650309
+PWY0-1296:_purine_ribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	0.5	0.7094705324484615
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I	1	1.0	0.750157293473669

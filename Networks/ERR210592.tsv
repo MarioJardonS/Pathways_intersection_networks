@@ -1,152 +1,152 @@
-UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1
-UNINTEGRATED	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1
-UNINTEGRATED	GALACTARDEG-PWY:_D-galactarate_degradation_I	1
-UNINTEGRATED	GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	1
-UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	1
-UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1
-UNINTEGRATED	PWY-6859:_all-trans-farnesol_biosynthesis	3
-UNINTEGRATED	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-UNINTEGRATED	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1
-UNINTEGRATED	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-UNINTEGRATED	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-UNINTEGRATED	PWY0-1296:_purine_ribonucleosides_degradation	1
-UNINTEGRATED	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-UNINTEGRATED	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-UNINTEGRATED	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	HISDEG-PWY:_L-histidine_degradation_I	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	HISDEG-PWY:_L-histidine_degradation_I	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6859:_all-trans-farnesol_biosynthesis	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1296:_purine_ribonucleosides_degradation	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-GALACTARDEG-PWY:_D-galactarate_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6859:_all-trans-farnesol_biosynthesis	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1
-HISDEG-PWY:_L-histidine_degradation_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6859:_all-trans-farnesol_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-5667:_CDP-diacylglycerol_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6859:_all-trans-farnesol_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6859:_all-trans-farnesol_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1296:_purine_ribonucleosides_degradation	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1296:_purine_ribonucleosides_degradation	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1
-PWY0-1296:_purine_ribonucleosides_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY0-1296:_purine_ribonucleosides_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY0-1296:_purine_ribonucleosides_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1296:_purine_ribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1
-PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1
-PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1
-PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1
+UNINTEGRATED	ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	1	0.2	0.0005791082972022021
+UNINTEGRATED	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1	0.2	0.0006321735354516411
+UNINTEGRATED	GALACTARDEG-PWY:_D-galactarate_degradation_I	1	0.2	0.0008893536607310626
+UNINTEGRATED	GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	1	0.2	0.0008893536607310626
+UNINTEGRATED	HISDEG-PWY:_L-histidine_degradation_I	1	0.2	0.0007710321374457818
+UNINTEGRATED	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	0.2	0.0005905831419455998
+UNINTEGRATED	PWY-6609:_adenine_and_adenosine_salvage_III	1	0.2	0.0010996615584698555
+UNINTEGRATED	PWY-6859:_all-trans-farnesol_biosynthesis	3	0.6	0.0008222904093854178
+UNINTEGRATED	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	0.2	0.0006840941780041909
+UNINTEGRATED	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	0.2	0.0003896232279444467
+UNINTEGRATED	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	0.2	0.0007612948855373336
+UNINTEGRATED	PWY-7237:_myo-,_chiro-_and_scyllo-inositol_degradation	1	0.2	0.0006107914708662898
+UNINTEGRATED	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	0.2	0.000963874286262878
+UNINTEGRATED	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	0.2	0.0011295561017037326
+UNINTEGRATED	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.2	0.0010580011916064835
+UNINTEGRATED	PWY0-1296:_purine_ribonucleosides_degradation	1	0.2	0.0011415896696569394
+UNINTEGRATED	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	0.2	0.0007948853949831802
+UNINTEGRATED	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	0.2	0.0005905831419455998
+UNINTEGRATED	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	0.2	0.00034842417776292933
+UNINTEGRATED	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	0.2	0.0008941757151472718
+UNINTEGRATED	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	0.2	0.0005877998673932128
+UNINTEGRATED	VALSYN-PWY:_L-valine_biosynthesis	1	0.2	0.0007312799986016749
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	1	1.0	0.9561775962732282
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	HISDEG-PWY:_L-histidine_degradation_I	1	1.0	0.8578019528010185
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.8640360352675338
+ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9925494510878653
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	HISDEG-PWY:_L-histidine_degradation_I	1	1.0	0.9010074886297712
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.907306144182118
+COA-PWY:_coenzyme_A_biosynthesis_I_(prokaryotic)	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.9636162658611503
+GALACTARDEG-PWY:_D-galactarate_degradation_I	GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	1	1.0	1.0
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7980477334544822
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8942133002131653
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6859:_all-trans-farnesol_biosynthesis	1	0.3333333333333333	0.49739835823502776
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	1.0	0.8694974973994596
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	1.0	0.6091674011250574
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.9597701342113116
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.8809644563823161
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9133547445553577
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.8757414044804265
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.9438868646800397
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7980477334544822
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.5628739508792082
+GALACTARDEG-PWY:_D-galactarate_degradation_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9972951354243892
+GALACTARDEG-PWY:_D-galactarate_degradation_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9024226590279764
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-5667:_CDP-diacylglycerol_biosynthesis_I	1	1.0	0.7980477334544822
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.8942133002131653
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6859:_all-trans-farnesol_biosynthesis	1	0.3333333333333333	0.49739835823502776
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	1.0	0.8694974973994596
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	1.0	0.6091674011250574
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.9597701342113116
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.8809644563823161
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9133547445553577
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.8757414044804265
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.9438868646800397
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7980477334544822
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.5628739508792082
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9972951354243892
+GLUCARGALACTSUPER-PWY:_superpathway_of_D-glucarate_and_D-galactarate_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9024226590279764
+HISDEG-PWY:_L-histidine_degradation_I	PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	1	1.0	0.9936430127480385
+HISDEG-PWY:_L-histidine_degradation_I	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.865109591597063
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6609:_adenine_and_adenosine_salvage_III	1	1.0	0.6986980083770358
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6859:_all-trans-farnesol_biosynthesis	1	0.3333333333333333	0.6026194158934078
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	1.0	0.9266161853520983
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	1.0	0.794933896684563
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.7597696223905035
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.6865474321621072
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.7163655715881629
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.681774778697892
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.8524892511749029
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	1.0
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.7420552137494308
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7954546025246442
+PWY-5667:_CDP-diacylglycerol_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8935269196125516
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6859:_all-trans-farnesol_biosynthesis	1	0.3333333333333333	0.4429435361076848
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	1.0	0.7669284503580514
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	1.0	0.5230981560025667
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.9341629778078333
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.9865821940944263
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9806814837680119
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9812820586741652
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.8390555350035551
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6986980083770358
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.48108307109284554
+PWY-6609:_adenine_and_adenosine_salvage_III	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8968886606445051
+PWY-6609:_adenine_and_adenosine_salvage_III	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7987137137578738
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	1	0.3333333333333333	0.5652012927033148
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	0.3333333333333333	0.6428940322562781
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	0.3333333333333333	0.47663647895218164
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	0.3333333333333333	0.4361552270976773
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	0.3333333333333333	0.45276344593985507
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1	0.3333333333333333	0.43348102069171146
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	0.3333333333333333	0.5264668963799033
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	0.3333333333333333	0.6026194158934078
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	0.3333333333333333	0.5951342596799714
+PWY-6859:_all-trans-farnesol_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	0.3333333333333333	0.49600037532455366
+PWY-6859:_all-trans-farnesol_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	0.3333333333333333	0.548029255190646
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	1	1.0	0.7256782223374652
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.8301593118956804
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.7542790896215846
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.785280169831025
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.7493041994430873
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.9250618679282542
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.9266161853520983
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.6748265974581269
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8668396373128393
+PWY-6936:_seleno-amino_acid_biosynthesis_(plants)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9666501585829742
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	1	1.0	0.5756102756593071
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.5127979445415586
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.5381617397097049
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.5087652807072929
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.6577752595600463
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.794933896684563
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.9441680449215658
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.6068781250453781
+PWY-6961:_L-ascorbate_degradation_II_(bacterial,_aerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6951176240996344
+PWY-7221:_guanosine_ribonucleotides_de_novo_biosynthesis	PWY66-429:_fatty_acid_biosynthesis_initiation_(mitochondria)	1	1.0	0.871356267284757
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	1	1.0	0.9208151229029686
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9534222530339515
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9155491081466932
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.903873996030403
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7597696223905035
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.5308935667286647
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9624709150092932
+PWY-7315:_dTDP-N-acetylthomosamine_biosynthesis	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8627316433758683
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY-7663:_gondoate_biosynthesis_(anaerobic)	1	1.0	0.9672721613142712
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9946985330966913
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.8260134567949066
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.6865474321621072
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.47134613751533394
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8836318533209708
+PWY-7388:_octanoyl-[acyl-carrier_protein]_biosynthesis_(mitochondria,_yeast)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7858742231016367
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1296:_purine_ribonucleosides_degradation	1	1.0	0.9619772915620397
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.8579323332727493
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.7163655715881629
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.49534254515637066
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9160399319402689
+PWY-7663:_gondoate_biosynthesis_(anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8173218765366248
+PWY0-1296:_purine_ribonucleosides_degradation	PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	1	1.0	0.8208772098694131
+PWY0-1296:_purine_ribonucleosides_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.681774778697892
+PWY0-1296:_purine_ribonucleosides_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.4675369732978272
+PWY0-1296:_purine_ribonucleosides_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.8784054007861903
+PWY0-1296:_purine_ribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.7808215633337336
+PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	1	1.0	0.8524892511749029
+PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.6094064060962817
+PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.9411909260534571
+PWY0-1297:_superpathway_of_purine_deoxyribonucleosides_degradation	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.9583075125303844
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	1	1.0	0.7420552137494308
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.7954546025246442
+PWY0-1319:_CDP-diacylglycerol_biosynthesis_II	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.8935269196125516
+PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	1	1.0	0.5606885136047448
+PWY0-301:_L-ascorbate_degradation_I_(bacterial,_anaerobic)	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.6453230436994795
+PWY0-862:_(5Z)-dodecenoate_biosynthesis_I	VALSYN-PWY:_L-valine_biosynthesis	1	1.0	0.899744255301255

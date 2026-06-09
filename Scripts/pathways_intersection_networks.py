@@ -40,7 +40,7 @@ def comunidad(ruta1 , ruta2 , muestra):
 			try:
 				r1[data.loc[i , "OTU"]]
 			except: 
-				r1[data.loc[i , "OTU"]]
+				r1[data.loc[i , "OTU"]] = 0
 	return [r1 , r2]
 
  	
@@ -69,23 +69,22 @@ def BrayCurtis(u,v):
 
 
 def red(muestra):
-    	edges = []
+	edges = []
 
-    	for i in range(len(rutas)-1):
-        	for j in range(i+1, len(rutas)):
+	for i in range(len(rutas)-1):
+		for j in range(i+1, len(rutas)):
+			t_i = taxa(rutas[i], muestra)
+			t_j = taxa(rutas[j], muestra)
 
-            		t_i = taxa(rutas[i], muestra)
-            		t_j = taxa(rutas[j], muestra)
-
- 			inter = len(t_i.intersection(t_j))
-            		jac = jaccard(t_i, t_j)
-	    		comunidades = comunidad(rutas[i] ,  rutas[j])
-	    		bray = BrayCurtis(comunidades[0] , comunidades[1])
+			inter = len(t_i.intersection(t_j))
+			jac = jaccard(t_i, t_j)
+			comunidades = comunidad(rutas[i] ,  rutas[j] , muestra )
+			bray = BrayCurtis(comunidades[0] , comunidades[1] )
 	   
-            		if inter > 0:
-                		edges.append([rutas[i], rutas[j], inter, jac , bray ])
+			if inter > 0:
+				edges.append([rutas[i], rutas[j], inter, jac , bray ])
 
-   	 return edges
+	return edges
 	
 	
 	
