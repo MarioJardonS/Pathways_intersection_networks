@@ -1,0 +1,59 @@
+Pathway	Object ID	Ontology - direct parents of entity	Ontology - pathway type	Common-Name
+superpathway of arginine and polyamine biosynthesis (from L-glutamate)	ARG+POLYAMINE-SYN	"Amide, Amidine, Amine, and Polyamine Biosynthesis // Superpathways"	"Amide, Amidine, Amine, and Polyamine Biosynthesis // Superpathways"	superpathway of arginine and polyamine biosynthesis (from L-glutamate)
+L-carnitine degradation I	CARNMET-PWY	Anaerobic Respiration // L-Carnitine Degradation	"Generation of Precursor Metabolites and Energy // Amide, Amidine, Amine, and Polyamine Degradation"	L-carnitine degradation I
+D-arabinose degradation II	DARABCATK12-PWY	D-Arabinose Degradation	Carbohydrate Degradation	D-arabinose degradation II
+galactitol degradation	GALACTITOLCAT-PWY	Alditol Degradation	Alcohol Degradation // Carbohydrate Degradation	galactitol degradation
+heme <i>b</i> biosynthesis V (aerobic)	HEME-BIOSYNTHESIS-II-1	Heme <i>b</i> Biosynthesis	"Tetrapyrrole Biosynthesis // Cofactor, Carrier, and Vitamin Biosynthesis"	heme b biosynthesis V (aerobic)
+pyruvate fermentation to acetate and (<i>S</i>)-lactate I	P41-PWY	Pyruvate Fermentation to Acetate // Pyruvate Fermentation to Lactate // Superpathways	Generation of Precursor Metabolites and Energy // Superpathways	pyruvate fermentation to acetate and (S)-lactate I
+2-oxobutanoate degradation I	PWY-5130	2-Oxobutanoate Degradation // Superpathways	Carboxylic Acid Degradation // Superpathways	2-oxobutanoate degradation I
+methyl-coenzyme M oxidation to CO<sub>2</sub> I	PWY-5209	methyl-coenzyme M oxidation to CO<sub>2</sub>	Generation of Precursor Metabolites and Energy	methyl-coenzyme M oxidation to CO2 I
+(R)-lactate fermentation to propanoate II (acrylate pathway)	PWY-5494	Fermentation to Propanoate	Generation of Precursor Metabolites and Energy	(R)-lactate fermentation to propanoate II (acrylate pathway)
+purine nucleobases degradation II (anaerobic)	PWY-5497	Fermentation // Purine Nucleotide Degradation // Superpathways	Generation of Precursor Metabolites and Energy // Nucleoside and Nucleotide Degradation // Superpathways	purine nucleobases degradation II (anaerobic)
+CDP-diacylglycerol biosynthesis III	PWY-5981	CDP-diacylglycerol Biosynthesis	Fatty Acid and Lipid Biosynthesis	CDP-diacylglycerol biosynthesis III
+3-dehydroquinate biosynthesis II (archaea)	PWY-6160	3-Dehydroquinate Biosynthesis	Carboxylic Acid Biosynthesis	3-dehydroquinate biosynthesis II (archaea)
+superpathway of L-cysteine biosynthesis (mammalian)	PWY-6292	L-cysteine Biosynthesis // Superpathways	Amino Acid Biosynthesis // Superpathways	superpathway of L-cysteine biosynthesis (mammalian)
+superpathway of L-cysteine biosynthesis (fungi)	PWY-6293	L-cysteine Biosynthesis // Superpathways	Amino Acid Biosynthesis // Superpathways	superpathway of L-cysteine biosynthesis (fungi)
+L-lysine degradation X	PWY-6328	L-lysine Degradation	Amino Acid Degradation	L-lysine degradation X
+guanosine nucleotides degradation I	PWY-6607	Guanosine Nucleotide Degradation	Nucleoside and Nucleotide Degradation	guanosine nucleotides degradation I
+chitin degradation II (Vibrio)	PWY-6902	Chitin Degradation // Glycan Pathways	Carbohydrate Degradation // Polymeric Compound Degradation // Glycan Pathways	chitin degradation II (Vibrio)
+L-<i>N<sup>&delta;</sup></i>-acetylornithine biosynthesis	PWY-6922	L-Ornithine Biosynthesis	Amino Acid Biosynthesis	L-Ndelta-acetylornithine biosynthesis
+"L-ascorbate degradation II (bacterial, aerobic)"	PWY-6961	L-Ascorbate Degradation	Carboxylic Acid Degradation	"L-ascorbate degradation II (bacterial, aerobic)"
+L-methionine biosynthesis II	PWY-702	L-methionine <i>De Novo</i> Biosynthesis	Amino Acid Biosynthesis	L-methionine biosynthesis II
+"9-<i>cis</i>, 11-<i>trans</i>-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)"	PWY-7340	Fatty Acid Degradation	Fatty Acid and Lipid Degradation	"9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)"
+thiamine diphosphate salvage IV (yeast)	PWY-7356	Thiamine Diphosphate Salvage	"Cofactor, Carrier, and Vitamin Biosynthesis"	thiamine diphosphate salvage IV (yeast)
+butanol and isobutanol biosynthesis (engineered)	PWY-7396	Fermentation to Alcohols	Generation of Precursor Metabolites and Energy	butanol and isobutanol biosynthesis (engineered)
+dTDP-&alpha;-D-ravidosamine and dTDP-4-acetyl-&alpha;-D-ravidosamine biosynthesis	PWY-7688	dTDP-sugar Biosynthesis	Carbohydrate Biosynthesis	dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis
+bile acid 7&alpha;-dehydroxylation	PWY-7754	Bile Acid Degradation	Carboxylic Acid Degradation // Fatty Acid and Lipid Degradation	bile acid 7alpha-dehydroxylation
+NAD salvage pathway II (PNC IV cycle)	PWY-7761	NAD Biosynthesis	"Cofactor, Carrier, and Vitamin Biosynthesis"	NAD salvage pathway II (PNC IV cycle)
+UMP biosynthesis II	PWY-7790	UMP Biosynthesis	Nucleoside and Nucleotide Biosynthesis	UMP biosynthesis II
+UMP biosynthesis III	PWY-7791	UMP Biosynthesis	Nucleoside and Nucleotide Biosynthesis	UMP biosynthesis III
+(aminomethyl)phosphonate degradation	PWY-7805	Phosphonate Compound Degradation	Inorganic Nutrient Metabolism	(aminomethyl)phosphonate degradation
+glyphosate degradation III	PWY-7807	Glyphosate Degradation	Inorganic Nutrient Metabolism	glyphosate degradation III
+coenzyme A biosynthesis II (eukaryotic)	PWY-7851	Coenzyme A Biosynthesis	"Cofactor, Carrier, and Vitamin Biosynthesis"	coenzyme A biosynthesis II (eukaryotic)
+(5Z)-dodecenoate biosynthesis II	PWY-7858	(5Z)-dodecenoate Biosynthesis	Fatty Acid and Lipid Biosynthesis	(5Z)-dodecenoate biosynthesis II
+D-erythronate degradation II	PWY-7873	Aldonic Acid Degradation	Carboxylic Acid Degradation	D-erythronate degradation II
+L-threonate degradation	PWY-7874	Aldonic Acid Degradation	Carboxylic Acid Degradation	L-threonate degradation
+peptidoglycan recycling II	PWY-7883	Anhydromuropeptide Recycling	Degradation/Utilization/Assimilation - Other	peptidoglycan recycling II
+5-oxo-L-proline metabolism	PWY-7942	Protein Modification	Protein Modification	5-oxo-L-proline metabolism
+UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis III (<i>meso</i>-diaminopimelate containing)	PWY-7953	UDP-<i>N</i>-Acetylmuramoyl-Pentapeptide Biosynthesis	Cell Structure Biosynthesis	UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)
+L-methionine biosynthesis IV	PWY-7977	L-methionine <i>De Novo</i> Biosynthesis	Amino Acid Biosynthesis	L-methionine biosynthesis IV
+Entner-Doudoroff pathway I	PWY-8004	Entner-Doudoroff Pathways // Monosaccharide Degradation // Superpathways	Generation of Precursor Metabolites and Energy // Carbohydrate Degradation // Superpathways	Entner-Doudoroff pathway I
+homocysteine and cysteine interconversion	PWY-801	Metabolite Interconversion	Metabolite Interconversion	homocysteine and cysteine interconversion
+lipid IV<sub>A</sub> biosynthesis (<i>P. putida</i>)	PWY-8073	Lipid IV<sub>A</sub> Biosynthesis	Cell Structure Biosynthesis // Fatty Acid and Lipid Biosynthesis // Glycan Pathways	lipid IVA biosynthesis (P. putida)
+factor 420 biosynthesis I (archaea)	PWY-8112	Factor 420 Biosynthesis	"Cofactor, Carrier, and Vitamin Biosynthesis"	factor 420 biosynthesis I (archaea)
+3PG-factor 420 biosynthesis	PWY-8113	Factor 420 Biosynthesis	"Cofactor, Carrier, and Vitamin Biosynthesis"	3PG-factor 420 biosynthesis
+5'-deoxyadenosine degradation II	PWY-8131	5'-Deoxyadenosine Degradation	Nucleoside and Nucleotide Degradation	5'-deoxyadenosine degradation II
+bile acid 7&beta;-dehydroxylation	PWY-8134	Bile Acid Degradation	Carboxylic Acid Degradation // Fatty Acid and Lipid Degradation	bile acid 7beta-dehydroxylation
+pentose phosphate pathway (non-oxidative branch) II	PWY-8178	Pentose Phosphate Pathways	Generation of Precursor Metabolites and Energy	pentose phosphate pathway (non-oxidative branch) II
+L-arginine degradation XIII (reductive Stickland reaction)	PWY-8187	L-arginine Degradation // Stickland Fermentation (Reductive Branch)	Generation of Precursor Metabolites and Energy // Amino Acid Degradation	L-arginine degradation XIII (reductive Stickland reaction)
+fructan biosynthesis	PWY-822	Polysaccharide Biosynthesis	Carbohydrate Biosynthesis // Glycan Pathways	fructan biosynthesis
+L-cysteine biosynthesis VI (reverse transsulfuration)	PWY-I9	L-cysteine Biosynthesis // Superpathways	Amino Acid Biosynthesis // Superpathways	L-cysteine biosynthesis VI (reverse transsulfuration)
+putrescine degradation II	PWY0-1221	Putrescine Degradation	"Amide, Amidine, Amine, and Polyamine Degradation"	putrescine degradation II
+oleate &beta;-oxidation	PWY0-1337	Fatty Acid Degradation	Fatty Acid and Lipid Degradation	oleate beta-oxidation
+ethanolamine utilization	PWY0-1477	"Amide, Amidine, Amine, and Polyamine Degradation"	"Amide, Amidine, Amine, and Polyamine Degradation"	ethanolamine utilization
+"L-ascorbate degradation I (bacterial, anaerobic)"	PWY0-301	L-Ascorbate Degradation	Carboxylic Acid Degradation	"L-ascorbate degradation I (bacterial, anaerobic)"
+L-lysine degradation I	PWY0-461	L-lysine Degradation	Amino Acid Degradation	L-lysine degradation I
+assimilatory sulfate reduction IV	PWY1ZNC-1	Assimilatory Sulfate Reduction	Inorganic Nutrient Metabolism	assimilatory sulfate reduction IV
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	NAD Biosynthesis	"Cofactor, Carrier, and Vitamin Biosynthesis"	NAD salvage pathway V (PNC V cycle)
+fatty acid biosynthesis initiation (mitochondria)	PWY66-429	Fatty Acid Biosynthesis Initiation	Fatty Acid and Lipid Biosynthesis	fatty acid biosynthesis initiation (mitochondria)
+tetradecanoate biosynthesis (mitochondria)	PWY66-430	Fatty Acid Biosynthesis	Fatty Acid and Lipid Biosynthesis	tetradecanoate biosynthesis (mitochondria)
