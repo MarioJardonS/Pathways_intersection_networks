@@ -41,16 +41,17 @@ metadata = pd.read_csv("../Data/metadata.csv" )
 file = open("../Data/argumentos.txt")
 
 Y = []
+Z = []
 
 def cl(diag):
 	if diag == "Healthy":
-		return 1 
+		return 'b'
 	if diag == "UC":
-		return 2
+		return 'g'
 	if diag == "CD":
-		return 3
+		return 'r'
 	if diag == "Obese":
-		return 4
+		return 'c'
 
 for line in file:
 	muestra = line[0:(len(line)-1)]
@@ -58,9 +59,10 @@ for line in file:
 		if metadata.loc[ i , "SampleID" ] == muestra:
 			c = cl(metadata.loc[i , "Diagnosis"]) 
 			Y.append(c)
+			Z.append(metadata.loc[i , "Diagnosis"])
 
 
-Z = pd.Series(Y)
+Z = pd.Series(Z)
 
 
 componentsDf = pd.DataFrame(data = components, columns = ['PC1', 'PC2'])
