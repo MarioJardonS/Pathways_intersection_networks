@@ -69,7 +69,7 @@ componentsDf = pd.DataFrame(data = components, columns = ['PC1', 'PC2'])
 pcaDf = pd.concat([componentsDf, Z], axis=1)
 
 plt.figure(figsize=(12, 6))
-plt.scatter(data=pcaDf, x="PC1", y="PC2" , c = Y)
+plt.scatter(data=pcaDf, x="PC1", y="PC2" , color = Y)
 plt.savefig("pca_edges.png")
 #sns.scatterplot(data=pcaDf, x="PC1", y="PC2")
 
