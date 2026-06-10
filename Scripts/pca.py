@@ -42,20 +42,32 @@ file = open("../Data/argumentos.txt")
 
 Y = []
 
+def cl(diag):
+	if diag == "Healthy":
+		return 1 
+	if diag == "UC":
+		return 2
+	if diag == "CD":
+		return 3
+	if diag == "Obese":
+		return 4
+
 for line in file:
 	muestra = line[0:(len(line)-1)]
 	for i in range(metadata.shape[0]):
 		if metadata.loc[ i , "SampleID" ] == muestra:
-			Y.append(metadata.loc[i , "Diagnosis"])
+			c = cl(metadata.loc[i , "Diagnosis"]) 
+			Y.append(c)
 
-Y = pd.Series(Y)
+
+Z = pd.Series(Y)
 
 
 componentsDf = pd.DataFrame(data = components, columns = ['PC1', 'PC2'])
-pcaDf = pd.concat([componentsDf, Y], axis=1)
+pcaDf = pd.concat([componentsDf, Z], axis=1)
 
 plt.figure(figsize=(12, 6))
-plt.scatter(data=pcaDf, x="PC1", y="PC2")
+plt.scatter(data=pcaDf, x="PC1", y="PC2" , c = Y)
 plt.savefig("pca_edges.png")
 #sns.scatterplot(data=pcaDf, x="PC1", y="PC2")
 
