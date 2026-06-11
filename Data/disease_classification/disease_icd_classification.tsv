@@ -1,0 +1,22 @@
+Disease	Grupo_de_enfermedad	Codigo ICD-11
+ACVD	Diseases of the circulatory system	BA5Y Other specified chronic ischaemic heart disease
+CAD	Endocrine, nutritional or metabolic diseases	5A22.0 Diabetic ketoacidosis without coma
+CRC	Neoplasms	2B93 Malignant neoplasms of large intestine, site unspecified
+HF	Endocrine, nutritional or metabolic diseases	5C80.00 Primary hypercholesterolaemia
+IBD	Diseases of the digestive system	DD7Z Inflammatory bowel diseases, unspecified
+IGT	Endocrine, nutritional or metabolic diseases	5A40.1 Impaired glucose tolerance
+ME/CFS	 Diseases of the nervous system	8E49 Postviral fatigue syndrome
+STH	Diseases of the nervous system	8A85 Painful cranial neuropathies or other facial pains
+T2D	Endocrine, nutritional or metabolic diseases	5A11 Type 2 diabetes mellitus
+adenoma	X Extension Codes	XH3DV3 Adenoma, NOS*
+ascites	Symptoms, signs or clinical findings, not elsewhere classified	ME04 Ascites
+carcinoma_surgery_history	Neoplasms	2D41 Unspecified carcinoma of unspecified site*
+cirrhosis	Diseases of the digestive system	DB93 Hepatic fibrosis or cirrhosis
+few_polyps	Diseases of the digestive system	DA44 Gastric polyp
+healthy	H	H
+hepatitis	Diseases of the digestive system	DB97 Certain specified inflammatory liver diseases
+hypertension	 Diseases of the circulatory system	BA00 Essential hypertension
+respiratoryinf	Diseases of the respiratory system	CA45 Respiratory infections, not elsewhere classified
+schistosoma	X Extension Codes	XN78L Schistosoma*
+schizophrenia	Mental, behavioural or neurodevelopmental disorders	6A20 Schizophrenia
+wilson	Endocrine, nutritional or metabolic diseases	5C64.00 Wilson disease
