@@ -14,6 +14,8 @@ Este repositorio contiene los scripts necesarios para mapear taxas bacterianas c
   * [cite_start]**Bases GTDB:** * `Data/gtdb/bac120_taxonomy.tsv.gz` [cite: 2]
     * [cite_start]`Data/gtdb/bac120.tree.gz` [cite: 2]
     * [cite_start]`Data/gtdb/bac120_metadata.tsv.gz` [cite: 2]
+      Bajar archivos de aqui: https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/
+      
 
 * **Metodología:**
   1. [cite_start]Lee la tabla original sin encabezado en `pathways_species2.tsv` y usa la columna 1 como la columna de bacterias[cite: 2]. Extrae los taxa que contienen `g__` y limpia/parsea buscando patrones tipo `g__Generos__Genero_especie`[cite: 3].
