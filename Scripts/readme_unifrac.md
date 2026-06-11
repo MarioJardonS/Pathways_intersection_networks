@@ -24,7 +24,7 @@ Este script toma los nombres bacterianos originales y los intenta mapear contra 
      * Match exacto contra especie GTDB.
      * Match por prefijo de especie GTDB.
      * Match exacto contra `ncbi_organism_name` en la metadata.
-     * Match exacto contra `ncbi_taxonomy`.
+     * Match exacto contra `ncbi_taxonomy` tambien en la metadata.
      * Si no encuentra especie, intenta match por género. Si tampoco encuentra, queda como **no mapeada**.
 
 * **OUTPUT:**
