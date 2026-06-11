@@ -10,7 +10,7 @@ Este repositorio contiene los scripts necesarios para mapear taxas bacterianas c
 [cite_start]Este script toma los nombres bacterianos originales y los intenta mapear contra los existentes en el árbol filogenético descargado de GTDB[cite: 1].
 
 * **INPUT:**
-  * [cite_start]`Data/pathways_species2.tsv` [cite: 2]
+  * [cite_start]`Data/pathways_species2.tsv` 
   * [cite_start]**Bases GTDB:** * `Data/gtdb/bac120_taxonomy.tsv.gz` [cite: 2]
     * [cite_start]`Data/gtdb/bac120.tree.gz` [cite: 2]
     * [cite_start]`Data/gtdb/bac120_metadata.tsv.gz` [cite: 2]
