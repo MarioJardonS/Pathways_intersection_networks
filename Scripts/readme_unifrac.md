@@ -14,6 +14,8 @@ Este script toma los nombres bacterianos originales y los intenta mapear contra 
   * **Bases GTDB:** * `Data/gtdb/bac120_taxonomy.tsv.gz`
     * `Data/gtdb/bac120.tree.gz`
     * `Data/gtdb/bac120_metadata.tsv.gz`
+      OJO: estos archivos .gz no estan en el repositorio debido a que son muy pesados, se pueden descargar de aqui https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/
+      se usaron los datos del 2026-03-24
 
 * **Metodología:**
   1. Lee la tabla original sin encabezado en `pathways_species2.tsv` y usa la columna 1 como la columna de bacterias. Extrae los taxa que contienen `g__` y limpia/parsea buscando patrones tipo `g__Generos__Genero_especie`.
