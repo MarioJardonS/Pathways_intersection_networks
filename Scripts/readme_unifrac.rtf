@@ -1,0 +1,399 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Bold;\f2\ftech\fcharset77 Symbol;
+\f3\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid101\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid201\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid301\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid401\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid402\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\margl1440\margr1440\vieww24900\viewh16580\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\qj\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\pard\tx566\pardeftab720\sa240\qj\partightenfactor0
+
+\f1\b\fs36 \cf0 01_map_bacteria_to_gtdb.py
+\f0\b0\fs24 \
+\pard\pardeftab720\sa240\qj\partightenfactor0
+\cf0 Este script toma los nombres bacterianos originales de Data/pathways_species2.tsv y los intenta mapear contra las que existen en el albor filogen\'e9tico descargado de GTDB.\
+\ul INPUT:\ulnone \uc0\u8232 Data/pathways_species2.tsv\
+Bases GTDB:\uc0\u8232 Data/gtd./bac120_taxonomy.tsv.gz\u8232 Data/gtdb/bac120.tree.gz\u8232 Data/gtdb/bac120_metadata.tsv.gz\
+\
+1.- Primero lee la tabla original sin encabezado en \outl0\strokewidth0 pathways_species2.tsv\outl0\strokewidth0 \strokec2 . Usa la columna 1 como columna de bacterias. Extrae los taxa que contienen g__.\
+Luego intenta parsear cada tax\'f3n original buscando patrones tipo:\
+g__Genero\uc0\u8232 s__Genero_especie\
+El parseo limpia espacios, detecta problemas como falta de g\'e9nero, falta de especie, m\'faltiples patrones, espacios internos o especies cuyo nombre no empieza con el g\'e9nero.\
+2.- Carga el \'e1rbol GTDB bac120 y toma sus tips. Normaliza los accessions reemplazando _ por espacio. Esto es importante porque el \'e1rbol y las tablas GTDB pueden no tener exactamente el mismo formato de accession.\
+3.- Carga la taxonom\'eda GTDB y la metadata GTDB. Filtra todo para quedarse solo con accessions presentes en el \'e1rbol. Esto evita mapear una bacteria a un accession que despu\'e9s no existe en el \'e1rbol filogen\'e9tico.\
+Para cada bacteria original intenta mapear en este orden:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\qj\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Match exacto contra especie GTDB.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Match por prefijo de especie GTDB.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Match exacto contra ncbi_organism_name en la metadata.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Match exacto contra ncbi_taxonomy.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Si no encuentra especie, intenta match solo por g\'e9nero.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Si tampoco encuentra g\'e9nero, queda como no mapeada.\
+\pard\pardeftab720\sa240\qj\partightenfactor0
+\cf0 \ul \ulc0 OUTPUT:\ulnone \
+Data/gtdb_mapping_all.tsv\uc0\u8232 Todos los intentos de mapeo.\
+Data/mapped_exact.tsv\uc0\u8232 Taxa mapeados a nivel especie. Estos son los que siguen al an\'e1lisis UniFrac.\
+Data/mapped_genus_only.tsv\uc0\u8232 Taxa que solo pudieron mapearse por g\'e9nero. No deber\'edan usarse autom\'e1ticamente para UniFrac si quieres una asignaci\'f3n estricta.\
+Data/unmapped.tsv\uc0\u8232 Taxa no mapeados.\
+Data/gtdb_mapping_review.tsv\uc0\u8232 Candidatos ambiguos o casos que requieren revisi\'f3n manual.\
+Al final hace sanity checks: espera 275 filas, 275 taxa originales, 275 accessions \'fanicos y 275 especies GTDB \'fanicas. Tambi\'e9n verifica que los 275 accessions est\'e9n presentes en el \'e1rbol.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\qj\partightenfactor0
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 OJO: estos n\'fameros ( como 275) dependen del numero de taxa identificados, en teor\'eda en una segunda etapa de refinamiento, esperamos obtener un mayor n\'famero de los 615\
+\
+\
+\
+\ls2\ilvl0
+\f1\b\fs36 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 02_prepare_unifrac_inputs.py
+\f0\b0\fs24 \
+\pard\pardeftab720\partightenfactor0
+\ls3\ilvl0\cf0 \
+Este script prepara los dos objetos necesarios para comparar pathways mediante UniFrac:\
+\
+* Una tabla de abundancia pathway \'d7 tax\'f3n.\
+* Un \'e1rbol filogen\'e9tico GTDB podado \'fanicamente a los taxa presentes en dicha tabla.\
+\
+\ls3\ilvl0\ul INPUT:\ulnone \
+* Data/relab_table_joined.tsv\
+* Data/gtdb/mapped_exact.tsv\
+* Data/gtdb/bac120.tree.gz\
+\
+Qu\'e9 hace:\
+\
+1. Carga la tabla `relab_table_joined.tsv`, donde cada fila representa una combinaci\'f3n espec\'edfica:\
+   Pathway | tax\'f3n\
+   y cada columna corresponde a una muestra biol\'f3gica.\
+\
+2. Separa la primera columna para extraer por separado:\
+   * el nombre del pathway,\
+   * el nombre original del tax\'f3n.\
+\
+3. Carga el archivo `mapped_exact.tsv`, que contiene la correspondencia entre los nombres originales de los taxa y los accessions GTDB obtenidos en el paso previo del pipeline.\
+\
+4. Construye un diccionario:\
+   tax\'f3n original 
+\f2 \uc0\u8594 
+\f0  accession GTDB\
+\
+5. Conserva \'fanicamente aquellos taxa que pudieron mapearse de manera exacta a GTDB.\
+\
+6. Reemplaza los nombres originales de los taxa por sus respectivos accessions GTDB.\
+\
+7. Identifica las columnas correspondientes a muestras y convierte todos sus valores a formato num\'e9rico, reemplazando valores inv\'e1lidos o ausentes por cero.\
+\
+8. Para cada combinaci\'f3n pathway\'96tax\'f3n, calcula una abundancia representativa utilizando la informaci\'f3n proveniente de todas las muestras disponibles.\
+\
+9. Agrupa los datos por:\
+   pathway\
+   accession GTDB\
+\
+   y construye una nueva matriz de abundancia con la estructura:\
+\
+   filas     = pathways\
+   columnas  = taxa (accessions GTDB)\
+   valores   = abundancia asociada de cada tax\'f3n dentro de cada pathway\
+\
+10. Normaliza cada pathway para que la suma de abundancias de todos sus taxa sea igual a 1. Esto permite interpretar cada pathway como una distribuci\'f3n taxon\'f3mica comparable con el resto de los pathways y facilita el uso posterior de Weighted UniFrac.\
+\
+\ls3\ilvl0\ul OUTPUT:\ulnone \
+Tabla de abundancia pathway \'d7 tax\'f3n: Data/pathway_unifrac_abundance_table.tsv\
+Posteriormente, el script carga el \'e1rbol filogen\'e9tico completo de GTDB y lo poda utilizando \'fanicamente los taxa presentes en esta nueva tabla.\
+El \'e1rbol resultante se guarda como: Data/pathway_tree_pruned.nwk\
+Este \'e1rbol podado es el que se utiliza posteriormente para calcular las distancias UniFrac entre pathways.\
+\
+Objetivo biol\'f3gico:\
+\
+A diferencia del uso cl\'e1sico de UniFrac, donde se comparan comunidades microbianas entre muestras biol\'f3gicas, este an\'e1lisis utiliza a cada pathway como una "unidad ecol\'f3gica". El objetivo es identificar si distintos pathways est\'e1n asociados a composiciones filogen\'e9ticas diferentes de bacterias.\
+En otras palabras, la pregunta que busca responder este an\'e1lisis es:\
+"\'bfQu\'e9 pathways est\'e1n asociados a conjuntos filogen\'e9ticamente distintos de bacterias?"\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\qj\partightenfactor0
+\ls3\ilvl0
+\f1\b\fs36 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 03_compute_unifrac.py
+\f0\b0\fs24 \
+\pard\pardeftab720\sa240\qj\partightenfactor0
+\cf0 Este script calcula matrices de distancia UniFrac entre pathways utilizando la tabla de abundancia pathway \'d7 tax\'f3n generada previamente y el \'e1rbol filogen\'e9tico GTDB podado a esos mismos taxa.\
+\ul \
+INPUT\ulnone \
+Data/pathway_unifrac_abundance_table.tsv\
+Data/pathway_tree_pruned.nwk\
+Qu\'e9 hace\
+1. Carga la tabla de abundancia:\
+   Data/pathway_unifrac_abundance_table.tsv\
+   Esta tabla tiene la siguiente estructura:\
+   * filas = pathways\
+   * columnas = taxa (accessions GTDB)\
+   * valores = abundancias relativas de cada tax\'f3n dentro de cada pathway\
+2. Carga el \'e1rbol filogen\'e9tico podado:\
+   Data/pathway_tree_pruned.nwk\
+   Este \'e1rbol contiene \'fanicamente los taxa presentes en la tabla de abundancia.\
+3. Extrae de la tabla:\
+   * ids: nombres de los pathways\
+   * taxa: nombres de los taxa/accessions GTDB\
+   * counts: matriz num\'e9rica de abundancias\
+4. Calcula la matriz de distancias utilizando Weighted UniFrac:\
+   Weighted UniFrac incorpora informaci\'f3n de abundancia relativa de los taxa presentes en cada pathway.\
+   Dos pathways tendr\'e1n distancias peque\'f1as cuando compartan linajes filogen\'e9ticamente similares y adem\'e1s dichos linajes tengan distribuciones de abundancia parecidas.\
+5. Calcula la matriz de distancias utilizando Unweighted UniFrac:\
+   Unweighted UniFrac utiliza \'fanicamente presencia o ausencia de taxa, ignorando sus abundancias.\
+   Dos pathways tendr\'e1n distancias peque\'f1as cuando compartan los mismos linajes filogen\'e9ticos, independientemente de cu\'e1nto contribuya cada uno.\
+6. Convierte ambas matrices de distancia al formato DataFrame de pandas.\
+7. Guarda las matrices resultantes como archivos TSV.\
+OUTPUT\
+Matriz de distancias Weighted UniFrac:\
+Data/pathway_weighted_unifrac_distance_matrix.tsv\
+Matriz de distancias Unweighted UniFrac:\
+Data/pathway_unweighted_unifrac_distance_matrix.tsv\
+Ambas matrices tienen estructura:\
+* filas = pathways\
+* columnas = pathways\
+* valores = distancia UniFrac entre cada par de pathways\
+\
+Interpretaci\'f3n\
+Cada elemento de la matriz representa qu\'e9 tan diferentes son dos pathways en t\'e9rminos de la composici\'f3n filogen\'e9tica de los taxa asociados a ellos.\
+Weighted UniFrac eval\'faa diferencias considerando la abundancia relativa de los taxa.\
+Unweighted UniFrac eval\'faa diferencias considerando \'fanicamente qu\'e9 taxa est\'e1n presentes o ausentes.\
+En este proyecto, el objetivo de estas matrices es identificar qu\'e9 funciones metab\'f3licas est\'e1n sostenidas por conjuntos filogen\'e9ticamente similares de microorganismos y cu\'e1les dependen de ensamblajes microbianos completamente distintos.\
+Por ejemplo, una distancia cercana a 0 indica que dos pathways est\'e1n asociados a comunidades filogen\'e9ticamente muy parecidas, mientras que una distancia cercana a 1 indica que los pathways est\'e1n asociados a conjuntos de linajes muy diferentes.\
+\
+\pard\pardeftab720\sa240\qj\partightenfactor0
+\cf0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\qj\partightenfactor0
+\ls4\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\
+\
+\
+\ls4\ilvl0
+\f1\b\fs36 identify_common_pathway_pairs.py
+\f0\b0\fs24 \
+Este script identifica pathways que existen tanto en la tabla original de asociaciones pathway-OTU como en la matriz de distancias UniFrac entre pathways. \
+Posteriormente genera todos los pares posibles entre esos pathways comunes y recupera su distancia UniFrac no ponderada.\
+\ls4\ilvl0\ul INPUT\ulnone \
+Data/pathways_species2.tsv\
+Data/pathway_unweighted_unifrac_distance_matrix.tsv\
+Qu\'e9 hace\
+1. Carga el archivo `pathways_species2.tsv` y extrae los nombres \'fanicos de la columna `Pathway`.\
+2. Carga la matriz de distancias:\
+   Data/pathway_unweighted_unifrac_distance_matrix.tsv\
+   donde cada fila y columna representa un pathway.\
+3. Corrige diferencias de formato entre los nombres de pathways presentes en ambos archivos. En particular:\
+   * reemplaza `:_` por `: `\
+   * reemplaza guiones bajos `_` por espacios\
+   * elimina espacios repetidos\
+   Por ejemplo:\
+   ALLANTOINDEG-PWY:_superpathway_of_allantoin_degradation_in_yeast\
+   se transforma en:\
+   ALLANTOINDEG-PWY: superpathway of allantoin degradation in yeast\
+4. Identifica los pathways que aparecen en ambos archivos despu\'e9s de la normalizaci\'f3n de nombres.\
+5. Guarda una tabla con la correspondencia entre:\
+   * `raw_name`: nombre original en `pathways_species2.tsv`\
+   * `unifrac_name`: nombre utilizado en la matriz UniFrac\
+   * `norm_name`: nombre normalizado utilizado para la comparaci\'f3n\
+6. Genera todos los pares posibles entre los pathways comunes encontrados.\
+7. Recupera para cada par la distancia correspondiente desde la matriz UniFrac.\
+8. Ordena todos los pares desde la menor hasta la mayor distancia UniFrac.\
+9. Imprime ejemplos de los pares m\'e1s cercanos y de los pares m\'e1s distantes para facilitar la selecci\'f3n de casos ilustrativos.\
+\
+\ls4\ilvl0\ul OUTPUT\ulnone \
+Tabla con los pathways compartidos entre ambos archivos:\
+Data/common_pathways_normalized.tsv\
+Esta tabla contiene la relaci\'f3n entre los nombres originales y los nombres utilizados en la matriz UniFrac.\
+Tabla con todos los pares posibles de pathways y su distancia UniFrac:\
+Data/example_pathway_pairs_from_unifrac.tsv\
+Columnas:\
+* `Pathway1`\
+* `Pathway2`\
+* `unweighted_unifrac`\
+Interpretaci\'f3n\
+Una distancia UniFrac cercana a 0 indica que dos pathways est\'e1n asociados a conjuntos de taxa filogen\'e9ticamente muy similares o id\'e9nticos.\
+Una distancia UniFrac cercana a 1 indica que dos pathways est\'e1n asociados a conjuntos de taxa filogen\'e9ticamente muy diferentes.\
+Este script se utiliz\'f3 para seleccionar ejemplos representativos de pathways cercanos y lejanos en el espacio filogen\'e9tico obtenido mediante UniFrac, permitiendo ilustrar c\'f3mo distintas funciones metab\'f3licas pueden compartir o diferir en los linajes microbianos que las sostienen.\
+\
+\
+\ls4\ilvl0
+\f1\b\fs36 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 04_plot_unweighted_unifrac_pcoa.py
+\f0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 Este script visualiza las relaciones filogen\'e9ticas entre pathways utilizando la matriz de distancias Unweighted UniFrac previamente calculada. El an\'e1lisis proyecta las distancias entre pathways en un espacio bidimensional mediante PCoA (Principal Coordinates Analysis) y destaca ejemplos representativos de pathways filogen\'e9ticamente similares y filogen\'e9ticamente distantes.\
+INPUT\
+Data/pathway_unweighted_unifrac_distance_matrix.tsv\
+Qu\'e9 hace\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}1.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Carga la matriz de distancias Unweighted UniFrac:\uc0\u8232 Data/pathway_unweighted_unifrac_distance_matrix.tsv\u8232 Esta matriz tiene la estructura:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls5\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 filas = pathways\
+\ls5\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 columnas = pathways\
+\ls5\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 valores = distancia Unweighted UniFrac entre cada par de pathways.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}2.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Define un par de pathways filogen\'e9ticamente cercanos que se utilizar\'e1n como ejemplo biol\'f3gicamente interpretable:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls5\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 METHANOGENESIS-PWY: methanogenesis from H2 and CO2\
+\ls5\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 PWY-8112: factor 420 biosynthesis I (archaea)\
+\pard\tx220\tx720\tx1133\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Este par fue seleccionado debido a que ambas funciones est\'e1n asociadas principalmente con arqueas metan\'f3genas y presentan una distancia UniFrac cercana a cero.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}3.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Busca autom\'e1ticamente el par de pathways m\'e1s distante de toda la matriz UniFrac.\uc0\u8232 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 	1	\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Para ello:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls5\ilvl1\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 recorre todas las combinaciones posibles de pathways,\
+\ls5\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 extrae la distancia correspondiente,\
+\ls5\ilvl1\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	
+\f3 \uc0\u9702 
+\f0 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 identifica el par con el mayor valor de Unweighted UniFrac.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}4.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Genera etiquetas descriptivas para los pathways seleccionados.\uc0\u8232 Los nombres mostrados en la figura corresponden a descripciones m\'e1s interpretables de las funciones metab\'f3licas en lugar de utilizar \'fanicamente identificadores abreviados.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}5.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Permite ajustar manualmente la posici\'f3n de las etiquetas mediante el diccionario:\uc0\u8232 LABEL_OFFSETS\u8232 donde cada pathway puede desplazarse utilizando coordenadas:\u8232 (dx, dy)\u8232 con el fin de evitar el sobrelapamiento de texto en la figura.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7	}6.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Convierte la matriz de distancias UniFrac en un objeto DistanceMatrix compatible con scikit-bio.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	9	}7.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Realiza un an\'e1lisis de coordenadas principales (PCoA) sobre la matriz de distancias.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	10	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	11	}8.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Obtiene las coordenadas de cada pathway en el espacio reducido definido por los primeros componentes principales.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	12	}\
+{\listtext	13	}9.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Grafica todos los pathways como puntos de fondo utilizando baja opacidad para mostrar la estructura global del espacio filogen\'e9tico.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	14	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	15	}10.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Destaca el par cercano utilizando:\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	16	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 marcadores circulares,\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	17	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 mayor tama\'f1o, borde negro.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	18	}11..- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Destaca el par m\'e1s distante utilizando:\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	19	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 marcadores cuadrados, mayor tama\'f1o,\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	20	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 borde negro.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\
+	12.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Dibuja l\'edneas conectando los dos miembros de cada par para facilitar su identificaci\'f3n visual.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 	13.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 A\'f1ade etiquetas \'fanicamente a los pathways seleccionados.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 	14.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Coloca una leyenda debajo de la figura indicando la identidad de los pathways resaltados.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 	15.- \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Guarda la figura final.\
+\pard\pardeftab720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	26	}\
+{\listtext	27	}\expnd0\expndtw0\kerning0
+\ul \outl0\strokewidth0 \strokec2 OUTPUT\ulnone \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	28	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Figura PCoA: Plots/unweighted_unifrac_pcoa_pathways_selected_pairs.png\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	29	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Adem\'e1s, el script imprime en pantalla:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	30	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 el nombre del par cercano seleccionado manualmente,\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	31	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 su distancia Unweighted UniFrac,\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	32	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 el nombre del par m\'e1s distante encontrado autom\'e1ticamente,\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	33	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 su distancia Unweighted UniFrac.\
+\pard\pardeftab720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\ls5\ilvl0\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Interpretaci\'f3n\
+La PCoA proporciona una representaci\'f3n bidimensional de las relaciones filogen\'e9ticas entre pathways basadas en UniFrac.\
+Pathways cercanos en la figura tienden a estar asociados con conjuntos similares de linajes microbianos.\
+Pathways alejados tienden a estar asociados con ensamblajes filogen\'e9ticos diferentes.\
+El par cercano ilustra funciones metab\'f3licas relacionadas que son ejecutadas por microorganismos evolutivamente similares.\
+El par m\'e1s distante representa funciones sostenidas por conjuntos de microorganismos pr\'e1cticamente independientes desde el punto de vista filogen\'e9tico.\
+Este an\'e1lisis permite explorar c\'f3mo distintas funciones metab\'f3licas del microbioma se organizan en el espacio filogen\'e9tico y proporciona ejemplos concretos de convergencia y divergencia funcional entre pathways.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls5\ilvl0\cf0 \strokec2 \
+\pard\pardeftab720\sa240\qj\partightenfactor0
+\cf0 \strokec2 \
+\
+\
+\
+#\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
+
+\f1\b\fs36 Lozupone 2007
+\f0\b0\fs24 \
+Lozupone y Knight usan UniFrac para comparar comunidades bacterianas usando un \'e1rbol filogen\'e9tico com\'fan. \
+UniFrac mide la distancia entre dos comunidades como la fracci\'f3n de longitud de ramas del \'e1rbol que lleva a descendientes presentes en una comunidad o en la otra, \
+pero no en ambas. En otras palabras, \ul cuantifica cu\'e1nta historia evolutiva es exclusiva de cada comunidad.\ulnone \
+En el art\'edculo de 2007, aplican UniFrac a 21,752 secuencias 16S rRNA de 202 muestras ambientales compiladas de 111 estudios. \
+* Usan PCoA y clustering jer\'e1rquico sobre la matriz UniFrac. El resultado principal fue que la salinidad separaba fuertemente las comunidades bacterianas, \
+	m\'e1s que temperatura, pH u otros extremos ambientales.\
+* Tambi\'e9n calculan diversidad filogen\'e9tica, PD, y ganancia de diversidad, G. PD es la longitud de ramas que queda al conservar solo las secuencias de una muestra. \
+	G es la longitud de ramas nuevas que una muestra a\'f1ade a un \'e1rbol que contiene todas las dem\'e1s muestras. \
+Esto no es UniFrac como distancia entre pares, pero usa la misma l\'f3gica filogen\'e9tica de longitud de ramas.\
+Una limitaci\'f3n que ellos mencionan es que no pod\'edan usar weighted UniFrac porque muchas bases no ten\'edan informaci\'f3n de abundancia relativa. \
+Por eso su an\'e1lisis depend\'eda de presencia/ausencia de linajes.\
+
+\f1\b\fs36 \
+UniFrac Wikipedia
+\f0\b0\fs24 \
+Wikipedia describe UniFrac como una m\'e9trica de distancia para comparar comunidades biol\'f3gicas. A diferencia de Bray-Curtis, incorpora relaciones filogen\'e9ticas entre organismos.\
+\ul La versi\'f3n unweighted calcula: longitud de ramas no compartidas / longitud total del \'e1rbol\ulnone \
+Las ramas compartidas son las que llevan a taxa presentes en ambas muestras. Las no compartidas son las que llevan a taxa presentes solo en una de las dos.\
+Tambi\'e9n describe \ul weighted UniFrac, que incorpora abundancia relativa, mientras que unweighted UniFrac usa solo presencia/ausencia.\ulnone  \
+Adem\'e1s, menciona que con muchas muestras se construye una matriz de distancias y luego se pueden aplicar m\'e9todos como clustering o PCoA.\
+Punto cr\'edtico: tu pipeline calcula weighted y unweighted, pero solo guarda y grafica unweighted. Si quieres interpretar diferencias por abundancia bacteriana, \
+el pipeline actual no lo est\'e1 usando realmente.\
+}
