@@ -17,7 +17,7 @@ Este script toma los nombres bacterianos originales y los intenta mapear contra 
     * *Nota: Puedes bajar los archivos de GTDB desde aquí: https://data.ace.uq.edu.au/public/gtdb/data/releases/latest/*
 
 * **Metodología:**
-  1. Lee la tabla original sin encabezado en `pathways_species2.tsv` y usa la columna 1 como la columna de bacterias. Extrae los taxa que contienen `g__` y limpia/parsea buscando patrones tipo `g__Generos__Genero_especie`.
+  1. Lee la tabla original sin encabezado en `pathways_species2.tsv` y usa la columna 1 como la columna de bacterias. Extrae los taxa que contienen `g__` y limpia/parsea buscando patrones tipo `g__Genero__especie`.
   2. Carga el árbol GTDB `bac120`, toma sus tips y normaliza los accessions reemplazando `_` por espacio (crucial debido a diferencias de formato entre el árbol y las tablas).
   3. Carga la taxonomía y metadata de GTDB, filtrando para conservar solo los accessions presentes en el árbol. Esto evita mapear bacterias a accessions inexistentes en la filogenia.
   4. Realiza el mapeo en el siguiente orden de prioridad:
