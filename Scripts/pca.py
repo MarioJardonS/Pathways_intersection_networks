@@ -64,6 +64,24 @@ for line in file:
 
 Z = pd.Series(Z)
 
+cumVar = pd.DataFrame(np.cumsum(PCA.explained_variance_ratio_)*100, 
+                      columns=["cumVarPerc"])
+expVar = pd.DataFrame(PCA.explained_variance_ratio_*100, columns=["VarPerc"])
+var = pd.concat([expVar, cumVar], axis=1)\
+    .rename(index={0: "PC1", 1: "PC2"})
+
+print(var)
+
+int = pd.DataFrame(
+    data    = PCA.components_,
+    columns = dataset.columns,
+    #index   = ['PC1', 'PC2', 'PC3', 'PC4']
+)
+
+int.to_csv("compos.tsv" , sep = "\t")
+
+
+
 
 componentsDf = pd.DataFrame(data = components, columns = ['PC1', 'PC2'])
 pcaDf = pd.concat([componentsDf, Z], axis=1)

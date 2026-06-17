@@ -1,0 +1,16 @@
+frozenset({'PWY-5030:_L-histidine_degradation_III', "PWY-5695:_inosine_5'-phosphate_degradation"})	-0.0022060060957072
+frozenset({"PWY-5695:_inosine_5'-phosphate_degradation", 'MET-SAM-PWY:_superpathway_of_S-adenosyl-L-methionine_biosynthesis'})	0.0054785799168792
+frozenset({'PWY-7977:_L-methionine_biosynthesis_IV', 'PWY-5136:_fatty_acid_&beta;-oxidation_II_(plant_peroxisome)'})	0.0054700892472522
+frozenset({'PWY-5030:_L-histidine_degradation_III', 'PWY0-1586:_peptidoglycan_maturation_(meso-diaminopimelate_containing)'})	-0.002091846840132
+frozenset({'PWY-5103:_L-isoleucine_biosynthesis_III', 'P4-PWY:_superpathway_of_L-lysine,_L-threonine_and_L-methionine_biosynthesis_I'})	0.0054749332358095
+frozenset({'PWY-5030:_L-histidine_degradation_III', 'ASPASN-PWY:_superpathway_of_L-aspartate_and_L-asparagine_biosynthesis'})	-0.002355914700059
+frozenset({'PWY-5030:_L-histidine_degradation_III', 'PYRIDNUCSYN-PWY:_NAD_de_novo_biosynthesis_I_(from_aspartate)'})	-0.0020976752671611
+frozenset({"PWY-5695:_inosine_5'-phosphate_degradation", 'METSYN-PWY:_superpathway_of_L-homoserine_and_L-methionine_biosynthesis'})	0.0054857044818997
+frozenset({'PWY-5030:_L-histidine_degradation_III', 'SER-GLYSYN-PWY:_superpathway_of_L-serine_and_glycine_biosynthesis_I'})	-0.0022012474631749
+frozenset({"PWY-5695:_inosine_5'-phosphate_degradation", 'PWY-5347:_superpathway_of_L-methionine_biosynthesis_(transsulfuration)'})	0.0054842089535316
+frozenset({'PWY-5030:_L-histidine_degradation_III', 'THRESYN-PWY:_superpathway_of_L-threonine_biosynthesis'})	-0.0020966499378135
+frozenset({'ARGININE-SYN4-PWY:_L-ornithine_biosynthesis_II', 'PWY-5030:_L-histidine_degradation_III'})	-0.0021317388399677
+frozenset({'DTDPRHAMSYN-PWY:_dTDP-&beta;-L-rhamnose_biosynthesis', 'UNINTEGRATED'})	-0.0021356059889849
+frozenset({'PWY-5103:_L-isoleucine_biosynthesis_III', 'PWY-5723:_Rubisco_shunt'})	0.0054727581255838
+frozenset({"PYRIDOXSYN-PWY:_pyridoxal_5'-phosphate_biosynthesis_I", 'PWY-5188:_tetrapyrrole_biosynthesis_I_(from_glutamate)'})	0.0054748433230151
+frozenset({"PWY-5695:_inosine_5'-phosphate_degradation", 'P441-PWY:_superpathway_of_N-acetylneuraminate_degradation'})	0.0054796744796799

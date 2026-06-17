@@ -25,9 +25,13 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-dataset = pd.read_table("pathway_shannon_index.tsv" )
+dataset = pd.read_table("pathway_shannon_index.tsv" , index_col = 0 )
+dataset.head()
+dataset = dataset.iloc[ 1: , : ]
+dataset.head()
 dataset = dataset.transpose()
-dataset = dataset.iloc[ : , 1: ] 
+dataset.head()
+#dataset = dataset.iloc[ : , 1: ] 
 
 
 

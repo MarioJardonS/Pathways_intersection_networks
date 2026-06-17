@@ -33,5 +33,5 @@ distribuciones <- as.data.frame(distribuciones)
 colnames(distribuciones) <- colnames(data)[3:dim(data)[2]]
 row.names(distribuciones) <- rutas
 
-write.table( distribuciones , file = "pathway_shannon_index.tsv")
+write.table( distribuciones , file = "pathway_shannon_index.tsv" , sep = "\t" )
 
