@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 
 data = pd.read_table("../Data/pathways_species2.tsv" )
 
@@ -12,6 +13,9 @@ pathways = pathways.tolist()
 otus = data["OTU"]
 otus = otus.tolist()
 
+samples = data.columns.tolist()
+samples = samples[2:]
+
 #funcion que da taxonomia (nivel especie) de ruta en una sola muestra
 def taxa(ruta , muestra):
 	r_m = []
@@ -24,7 +28,7 @@ def taxa(ruta , muestra):
 	return duta_r_m
  	
 
-def comunidad(ruta1 , ruta2 , muestra):
+def comunidad2(ruta1 , ruta2 , muestra):
 	r1 = {}
 	r2 = {}
 	for i in range(len(pathways)):
@@ -43,6 +47,26 @@ def comunidad(ruta1 , ruta2 , muestra):
 				r1[data.loc[i , "OTU"]] = 0
 	return [r1 , r2]
 
+
+def comunidad(ruta , muestra):
+	r = []
+	for i in range(len(pathways)):
+		if pathways[i] == ruta and data.loc[i , muestra] > 0:
+			r.append(data.loc[i , muestra])
+	return r
+
+
+ 	
+# Función para calcular índice de Shannon
+def shan_index(u):
+	t = sum(u)
+	if t == 0:
+		return 0
+	s = 0
+	for i in range(len(u)):
+		s = s - ((u[i]/t)*math.log(u[i]/t))
+	
+	return s
  	
 # Función para calcular índice de Jaccard
 def jaccard(conjunto1, conjunto2):
@@ -78,7 +102,7 @@ def red(muestra):
 
 			inter = len(t_i.intersection(t_j))
 			jac = jaccard(t_i, t_j)
-			comunidades = comunidad(rutas[i] ,  rutas[j] , muestra )
+			comunidades = comunidad2(rutas[i] ,  rutas[j] , muestra )
 			bray = BrayCurtis(comunidades[0] , comunidades[1] )
 	   
 			if inter > 0:
