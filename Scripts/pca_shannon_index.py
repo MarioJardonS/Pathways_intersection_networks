@@ -25,14 +25,19 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-dataset = pd.read_table("pathway_shannon_index.tsv" , index_col = 0 )
-dataset.head()
-dataset = dataset.iloc[ 1: , : ]
-dataset.head()
-dataset = dataset.transpose()
-dataset.head()
+dataset = pd.read_table("shannon_index.tsv" )
+dataset = dataset.iloc[ : , 1: ] 
 #dataset = dataset.iloc[ : , 1: ] 
 
+#filtro = []
+
+#for i in range(dataset.shape[0]):
+#	v = dataset.iloc[ i , : ].tolist()
+#	if sum(v) != 0:
+#		filtro.append(i)
+
+#dataset = dataset.iloc[ filtro , :]
+#print(dataset.head())
 
 
 scaler = StandardScaler()
@@ -69,6 +74,24 @@ for line in file:
 
 
 Z = pd.Series(Z)
+
+
+cumVar = pd.DataFrame(np.cumsum(PCA.explained_variance_ratio_)*100, 
+                      columns=["cumVarPerc"])
+expVar = pd.DataFrame(PCA.explained_variance_ratio_*100, columns=["VarPerc"])
+var = pd.concat([expVar, cumVar], axis=1)\
+    .rename(index={0: "PC1", 1: "PC2"})
+
+print(var)
+
+int = pd.DataFrame(
+    data    = PCA.components_,
+    columns = dataset.columns,
+    #index   = ['PC1', 'PC2', 'PC3', 'PC4']
+)
+
+int.to_csv("compos_v.tsv" , sep = "\t")
+
 
 
 componentsDf = pd.DataFrame(data = components, columns = ['PC1', 'PC2'])

@@ -78,6 +78,7 @@ def jaccard(conjunto1, conjunto2):
 
 	return len(interseccion) / len(union)
 
+# Función para calcular la similaridad de BrayCurtis
 def BrayCurtis(u,v):
     	dif = 0
     	sum = 0
