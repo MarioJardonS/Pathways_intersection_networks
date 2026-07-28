@@ -6,22 +6,18 @@ from skbio import TreeNode
 
 print("RUNNING 02_prepare_unifrac_inputs.py")
 
-RAW_FILE    = Path("Data/relab_table_joined.tsv")
-MAPPED_FILE = Path("Data/unifrac/mapped_exact.tsv")
-GTDB_TREE   = Path("Data/unifrac/bac120.tree.gz")
+RAW_FILE           = Path("Data/relab_table_joined.tsv") # archivo de entrada principal (multiplex : https://github.com/ccm-bioinfo/Camda25_gut/tree/multiplex/DataSets/CAMDA_2024)
+MAPPED_FILE        = Path("Data/unifrac/mapped_exact.tsv") # mapeo exacto genus species CAMDA2024 contra GTdb
+GTDB_TREE          = Path("Data/unifrac/bac120.tree.gz") # arbol filogenetico bacteriano de GTDB
+PATHWAY_TYPES_FILE = Path("Data/Pathways_Types_complete.txt") # pathways por categoria y tipo 
+OUT_TABLE          = Path("Data/pathway_sample_unifrac_abundance_table.tsv") # tabla de abundancias para calcular unifrac
+OUT_TREE           = Path("Data/pathway_sample_tree_pruned.nwk") # arbol de GTDB podado -> se eliminaron las ramas o puntas que no aparecen en la tabla
 
-PATHWAY_TYPES_FILE = Path("Data/Pathways_Types_complete.txt")
-
-OUT_TABLE = Path("Data/pathway_sample_unifrac_abundance_table.tsv")
-OUT_TREE  = Path("Data/pathway_sample_tree_pruned.nwk")
-
-FEATURE_COL = "# Pathway"
-EXAMPLE_SAMPLE = "ERR209069"
-
+FEATURE_COL    = "# Pathway" # Nombre de la columna de pathways
+EXAMPLE_SAMPLE = "ERR209069" # muestra usada para validación
 
 def normalize_accession(x):
     return str(x).replace("_", " ").strip()
-
 
 # 1. Load relative abundance table
 df = pd.read_csv(RAW_FILE, sep="\t")
@@ -33,6 +29,9 @@ print("Input table:", df.shape)
 # ---------------------------------------------------------------------
 # CHECK 0: abundance scale in raw relab_table_joined.tsv before filtering
 # ---------------------------------------------------------------------
+## prepara la tabla de abundancias para que cada taxón quede asociado 
+## con un accession de GTDB y elimina las filas que no pueden utilizarse 
+## en el análisis filogenético
 
 raw_original_sample_cols = df.columns[1:]
 
